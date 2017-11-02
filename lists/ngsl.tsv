@@ -3765,7 +3765,7 @@ whenever	WHEFR	WHEFR	2125	root	WH*FR, WH-FR, WH*EFR, WHREFR			brief
 depression	TKPREGS	DPRESHN	2126	root	TE/PREGS, TKE/PREGS			
 depressions	TKPREGS/-S	DPRESHN/-S	2126	plural				
 guilty	TKPW-LT	G-LT	2127	root	TKPWEUL/TEU, TKPWEULT/TEU, TKPWEULT/KWREU	If you were found to be G.L.T. of a crime, it's harder (but not impossible) to find a J.O.B.		brief
-underlie			2128	root			not in plover dict	
+underlie			2128	root			not in plover dict	missing
 mom	PHOPL	MOM	2129	root				brief
 distinction	STKEUPBGS	SDINSHN	2130	root	TKWEUPBGS, STK*EUPBGS, TKEUS/TEUPGS, TKEUS/TEUPBGS, TKEUGS/TEUPBGS	Imagine taking a test in a room with a bell that TKEUPBGS (dings) whenever you get a question right. If you pass a test with distinction, you picked up lots of dings on the way--maybe even on every question, in which case you get an S for Super.		brief
 distinctions	TKEUS/TEUPBGS/-S	DIS/TINSHN/-S	2130	plural				
@@ -4193,7 +4193,7 @@ incentive	EUPB/SEPB/TEUF	IN/SEN/TIF	2383	root	EUPB/SEPBT/EUF, EUPB/SEPB/T*EUF, E
 incentives	EUPB/SEPBT/EUFS	IN/SENT/IFS	2383	plural	EUPB/SEPB/T*EUFS, EUPB/SEPBT/*EUFS			
 league	HRAOEG	LEEG	2384	root				
 leagues	HRAOEG/-S	LEEG/-S	2384	plural				
-dialog			2385	root			not in plover dict	
+dialog			2385	root			not in plover dict	missing
 cream	KRAOEPL	CEEM	2386	root				
 rapid	RAPD	RAPD	2387	root	RAP/EUD			
 cancel	SKEL	SKEL	2388	root	SK*EL, KAPB/SEL, KAPBS/EL	Some college athletes with lots of SKEL (skill) will cancel their registration for the next year and go straight to the pros. But that might be a mistake--that college degree will be more valuable in the long run.		brief
@@ -4618,7 +4618,7 @@ extracting	EBGS/TRABGT/-G	EX/TRAKT/-G	2644	conjugation
 implementation	*EUPL/TAEUGS	*IM/TAASHN	2645	root	EUPLT/TAEUGS, *EUPLT/TAEUGS, *EUPL/*PLT/AEUGS, EUPL/*PLT/TAEUGS, EUPL/-PLT/TAEUGS			brief
 bias	PWO*EUS	BO*IS	2646	root	PWAO*EUS, PWAOEU/AS, PW*EU/KWRAS, PWAOEU/KWRAS	A child attempts to explain his poor grades by claiming that the teacher has a bias against PWOEUS (boys). He thinks that for this reason, there should be an asterisk next to each grade he gets.		brief
 differently	TKEUFRL	DIFRL	2647	root	TKEUFPBL, TKEURPBL, TKEUFPBLT, TKEUFRPBL, TKEUFRPBLT			
-catalog			2648	root			not in plover dict	
+catalog			2648	root			not in plover dict	missing
 catalogs	KAT/HROBGS	KAT/LOX	2648	plural	KOLT/HROGS			
 continuous	T-PB/WUS	T-N/WUS	2649	root	T-P/WOUS, KOPBT/OUS, T-PB/WOUS, KOPBT/WOUS, T-PB/KWRUS			brief
 golden	TKPWOELD/*EPB	GOELD/*EN	2650	root	TKOELD/*EPB, TKPWROELD/*EPB	Note that TKPWOLD (without the E) is actually a prefix, so don't forget to put in the E.		
@@ -4851,7 +4851,7 @@ grin	TKPWREUPB	GRIN	2791	root				brief
 noun	TPHOUPB	NOUN	2792	root	TPHO*UPB			
 nouns	TPHO*UPBS	NO*UNS	2792	plural				
 fortunate	TP-RPBT	F-RNT	2793	root	TPORPBT, TPORT/TPHAT, TPOR/KHU/TPHAT, TPORPBLG/TPHAT, TPO*RPBLG/TPHAT			brief
-alright			2794	root			not in plover dict	
+alright			2794	root			not in plover dict	missing
 lazy	HRAEZ	LAEZ	2795	root	HRAEU/S*EU, HRAEUZ/SEU, HRAEUZ/S*EU, HRAEUZ/KWREU			
 lazier	HRAEUZ/KWRER	LAAZ/YER	2795	comparative				
 laziest	HRAEUZ/KWR*ES	LAAZ/Y*ES	2795	superlative	HRAEUZ/KWREFT			

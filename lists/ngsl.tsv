@@ -64,8 +64,8 @@ knew	TPHAOU	NUU	41	conjugation	TKPHAOU
 knows	TPHOEZ	NOEZ	41	conjugation	TPHO*ES, TPHOE/-S			
 more	PHOR	MOR	42	root	PHORP			
 get	TKPW-T	G-T	43	root	KPWET, TKPET, TKWET, TPWET, TKPWET	I'd totally get the new Ford G-T		brief
-gets	TKPWETS	GETS	43	conjugation	TKPWETSZ, TKPWETS/-S			
-getting	TKPWEGT	GEGT	43	conjugation	TKPEGT, TKWET/-G, TKPWET/-G, TKPWELT/-G			brief
+gets	TKPWETS	GETS	43	conjugation	TKPWETSZ, TKPWETS/-S		G-TS also works but doesn't have an entry	missing
+getting	TKPWEGT	GEGT	43	conjugation	TKPEGT, TKWET/-G, TKPWET/-G, TKPWELT/-G		G-GT also works but doesn't have an entry	brief
 got	TKPWOT	GOT	43	conjugation	KPWOT, TKPOT, TKWOT, TPWOT, TKPWOLT			
 gotten	TKPW*PB	G*N	43	conjugation	TKPWO*PB, TKPWOT/-PB, TKPWOT/*EPB			
 who	HO	HO	44	root	WHO, KWHO, WHRO			brief
@@ -81,7 +81,7 @@ time	TAOEUPL	TIIM	49	root	TPAOEUPL
 see	SAOE	SEE	50	root				
 saw	SAU	SAU	50	conjugation				
 sees	SAO*ES	S*EES	50	conjugation	SAO*EZ			
-what	WHA	WHA	51	root	KWHA, PWHA, WHRA, WHA/WHA*, WHAO/WHA*			brief
+what	WHA	WHA	51	root	KWHA, PWHA, WHRA, WHA/WHA*, WHAO/WHA*	say WHAHAHAHA...		brief
 up	UP	UP	52	root	OUP			
 some	SOPL	SOM	53	root	SOFPL			
 other	OER	OER	54	root	OT/ER, O/THER			brief
@@ -123,24 +123,20 @@ looks	HAOBGS	HOOX	75	conjugation	HRAOBGS
 want	WAPBT	WANT	76	root	WABT, WAPT, WABLT, WAPBLT			
 wanting	WAPBGT	WANGT	76	conjugation	WAPB/-G, WAPBT/-G			
 give	TKPWEUF	GIF	77	root	KPWEUF, TKPEUF, TKPWUF, TPWEUF			
-gave	TPWAEUF	FWAAF	77	conjugation	TKPWAEUF, TKPWA*EUF			
-given	TKPWEUFP	GICH	77	conjugation	TKPWEUFPB, TKPW*EUFPB, TKPWEUFRPB, TKPWEUF/EPB, TKPW*EUF/-PB			
-gives	TPEUFS	FIFS	77	conjugation	TKPWUFS, TPWEUFS, TKPWEUFS			
-giving	TKPWUFG	GUFG	77	conjugation	TPHEUFG, TKPWEUFG, TKPWEUFGS, TKPWEUFPG, TKPWEUF/-G			
-first	TPEURS	FIRS	78	root	STPEURS, TP*EURS, TPEUFRT, TPHEURS			
+gave	TKPWAEUF	GAAF	77	conjugation	TPWAEUF, TKPWA*EUF			
+first	TPEURS	FIRS	78	root	STPEURS, TP*EURS, TPEUFRT, TPHEURS	"like when saying ""first time"", we drop the T"		brief
 new	TPHU	NU	79	root				brief
 newest	TPHAOUFT	NUUFT	79	superlative	TPHAOU/EFT			
 way	WAEU	WAA	80	root				
 find	TPEUPBD	FIND	81	root	TPAOEUPD, 2350EU7BD, TPAOEUPBD, TPWAOEUPBD			
-finding	TPAOEPBGD	FEENGD	81	conjugation	TPAOEUPBGD, TPAOEUBD/-G			
-finds	TPAOEUPBDZ	FIINDZ	81	conjugation				
-over	OEFR	OEFR	82	root	OEF, A*UFR	A couple celebrates the fact that their DEBT (OE) is over by . . . eating ramen noodles. They don't want to go back into debt.		
+finding	TPAOEUPBGD	FIINGD	81	conjugation	TPAOEPBGD, TPAOEUBD/-G		FINGD also works	missing
+finds	TPAOEUPBDZ	FIINDZ	81	conjugation			FINDZ also works	missing
+over	OEF	OEF	82	root	OEFR, A*UFR	A couple celebrates the fact that their DEBT (OE) is over by . . . eating ramen noodles. They don't want to go back into debt.		
 any	TPHEU	NI	83	root	TKPHEU, TPH*EU	"Remember Monty Python's knights who say ""TPHEU"" (NI)? They say ""NI"" in response to any statement, no matter what it is."		brief
-after	AF	AF	84	root	AFT			brief
+after	AF	AF	84	root	AFT	After a sleepless night I'm tired AF	AFR is the after- prefix	brief
 day	TKAEU	DAA	85	root	TAEU			
 where	W-R	W-R	86	root	W*R, W-F, WHER	"If you have trouble remembering that WR maps to ""were"" and W-R maps to ""where,"" here's a story for you: originally, W and R WR (were) right next to each other. But then the R wandered off to the other side of the board to form W-R (where), causing the W to say: ""where are you??"""		brief
-thing	THEPBG	THENG	87	root	THEUPG, THEUPBG, THAEUPBG, THAOEUPBG			brief
-things	THEUBGS	THIX	87	plural	THEUPGS, SHEUPBGS, THEUPBGS, STHEUPBGS, THEUPBLGS			
+thing	THEUPBG	THING	87	root	THEPBG, THEUPG, THAEUPBG, THAOEUPBG			brief
 most	PHOFT	MOFT	88	root	PHO*S, PHO*ES, PHOEFT			
 should	SHO	SHO	89	root	-RBD, SHO*, SHUD, SHOUD, SHOULD			brief
 need	TPHAED	NAED	90	root	TPHAOED, TPHAOEUD			

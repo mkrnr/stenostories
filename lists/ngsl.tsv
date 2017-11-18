@@ -7,7 +7,7 @@ been	PW-PB	B-N	2	conjugation	PW-B, PW-FPB			brief
 is	S	S	2	conjugation				brief
 isn't	S-PBT	S-NT	2	conjugation	S-PT, S-PBLT			brief
 was	WA	WA	2	conjugation	WAS, WAZ, WUZ, KWAS, WAGS			brief
-wasn't	WAEPBT	WAENT	2	conjugation	WUPBT, WAEPT, WAEPBS, WAEPBLT, WASZ/-PBTD			brief
+wasn't	WUPBT	WUNT	2	conjugation	WAEPT, WAEPBT, WAEPBS, WAEPBLT, WASZ/-PBTD			brief
 were	WR	WR	2	conjugation	-RP			brief
 weren't	WR-PBT	WR-NT	2	conjugation	W-RPBT, WREPBT, WR-PBLT, WR-RPBLTS			brief
 and	STK	SD	3	root	ABD, APD, SKP,&nbsp;-PBD, 57BD			brief
@@ -90,7 +90,7 @@ outing	OUT/-G	OUT/-G	55	conjugation	AOUT/-G		OUTG works but not part of plover d
 good	TKPWAOD	GOOD	56	root	KPWAOD, TKPAOD, TKWAOD, TPWAOD, TKPWAOD, TKPWRAOD			
 better	PWAOERT	BEERT	56	comparative	PWOERT, PWET/ER, PWET/*ER, PWET/TER, PWHAOERT			
 best	PWEFT	BEFT	56	superlative	PW*ES			
-people	PEPL	PEM	57	root	PAEPL, PAOPL, 350E78, PAOEPL, PAOEFPL			
+people	PEPL	PEPL	57	root	PAEPL, PAOPL, 350E78, PAOEPL, PAOEFPL			
 year	KWRAOER	YEER	58	root	WRAOER, KWRAEUR, KWHRAOER, KWRAOERB, TKWRAOER			
 take	TAEUBG	TAAK	59	root	THAEUBG, TKAEUBG			
 taken	TAEPB	TAEN	59	conjugation	TA*EUPB, TA*EUFPB, TAEUB/*EPB, TAEUBG/-PB, TAEUBG/*EPB			
@@ -103,9 +103,8 @@ very	SRE	VE	63	root	SKRE			brief
 just	SKWRUFT	JUFT	64	root	KWRUFT, SKWRUF, SKPWRUFT, SKWRAUFT, SKWRUFLT			
 come	KOPL	KOM	65	root	KOUPL, KWOPL			
 came	KAEUPL	KAAM	65	conjugation	KAEUFPL			
-coming	KO*G	KO*G	65	conjugation	KOPLG, KOPBLG, KOPL/-G, KO*PL/-G, KOPL/-G/-G			
 could	KO	KO	66	root	KOULD			brief
-work	WORBG	WOSHG	67	root	WORB, WORG, WORBLG			
+work	WORBG	WORK	67	root	WORB, WORG, WORBLG			
 working	WOG	WOG	67	conjugation	WO*G, WORBG/-G, PWORBG/-G			
 use	AOUS	UUS	68	root	AOUZ, KWRAOUZ			
 used	AOUFD	UUFD	68	conjugation	AOUSD, AO*UFD, AOUFPD, AUS/-D, AOUS/-D			
@@ -119,14 +118,13 @@ into	TPHAO	NOO	73	root	SPWAO, TPHAO*, TPHRAO, EUPB/TO			brief
 only	OPBL	ONL	74	root	OEPBL, HOEPBL			brief
 look	HRAOBG	LOOK	75	root	HRAOPBG			
 looking	HRAOG	LOOG	75	conjugation	WHRAOBG, HRAOBG/-G, HRAOBG/-BG			
-looks	HAOBGS	HOOX	75	conjugation	HRAOBGS			
 want	WAPBT	WANT	76	root	WABT, WAPT, WABLT, WAPBLT			
 wanting	WAPBGT	WANGT	76	conjugation	WAPB/-G, WAPBT/-G			
 give	TKPWEUF	GIF	77	root	KPWEUF, TKPEUF, TKPWUF, TPWEUF			
 gave	TKPWAEUF	GAAF	77	conjugation	TPWAEUF, TKPWA*EUF			
 first	TPEURS	FIRS	78	root	STPEURS, TP*EURS, TPEUFRT, TPHEURS	"like when saying ""first time"", we drop the T"		brief
 new	TPHU	NU	79	root				brief
-newest	TPHAOUFT	NUUFT	79	superlative	TPHAOU/EFT			
+newest	TPHAOUFT	NUUFT	79	superlative	TPHAOU/EFT		NUFT missing	missing
 way	WAEU	WAA	80	root				
 find	TPEUPBD	FIND	81	root	TPAOEUPD, 2350EU7BD, TPAOEUPBD, TPWAOEUPBD			
 finding	TPAOEUPBGD	FIINGD	81	conjugation	TPAOEPBGD, TPAOEUBD/-G		FINGD also works	missing
@@ -139,77 +137,70 @@ where	W-R	W-R	86	root	W*R, W-F, WHER	"If you have trouble remembering that WR ma
 thing	THEUPBG	THING	87	root	THEPBG, THEUPG, THAEUPBG, THAOEUPBG			brief
 most	PHOFT	MOFT	88	root	PHO*S, PHO*ES, PHOEFT			
 should	SHO	SHO	89	root	-RBD, SHO*, SHUD, SHOUD, SHOULD			brief
-need	TPHAED	NAED	90	root	TPHAOED, TPHAOEUD			
+need	TPHAOED	NEED	90	root	TPHAED, TPHAOEUD			
 needed	TPHAOETD	NEETD	90	conjugation				
 needing	TPHAOEGD	NEEGD	90	conjugation				
 needn't	TPHAOED/*PBT	NEED/*NT	90	conjugation				
-needs	THAOEDZ	THEEDZ	90	conjugation	23450EDZ, TPHAOEDZ, TPHAOESD, TPHAOETDZ, TPHAOEUDZ			
-much	UFP	UCH	91	root	PHUFP, PHOUFP, TPHUFP			brief
+needs	TPHAOEDZ	NEEDZ	90	conjugation	THAOEDZ, 23450EDZ, TPHAOESD, TPHAOETDZ, TPHAOEUDZ			
+much	PHUFP	MUCH	91	root	UFP, PHOUFP, TPHUFP			
 right	RAOEUT	RIIT	92	root	RAOEUT, PRAOEUT, RAOEUGT, RAOEURT			
-righted	RAOEUT/-D	RIIT/-D	92	conjugation				
+righted	RAOEUT/-D	RIIT/-D	92	conjugation			RIITD also works but is not in the dictionary	missing
 how	HOU	HOU	93	root	PHOU, WHOU			
 back	PWABG	BAK	94	root				
 backing	PWA*G	BA*G	94	conjugation	PWABG/-G			
-mean	PHAOEP	MEEP	95	root	PHAOEPB	You know what's really mean? Hiding all of the T-P (toilet paper) in your friend's house. Panic will ensue. (A story for PHAOEPB: Is there any animal that's meaner than a mosquito (AOE)? It mercilessly sucks out your own blood.)		brief
+mean	PHAOEPB	MEEN	95	root	PHAOEP			
 meant	PHEPBT	MENT	95	conjugation				
 even	AOEPB	EEN	96	root	AOEP, *EFPB, AO*EFPB, AO*EF/-PB			brief
-may	PHAE	MAE	97	root	PHAEU			
+may	PHAEU	MAA	97	root	PHAE			
 here	HAOER	HEER	98	root				
 many	PHAEPB	MAEN	99	root				
 such	SUFP	SUCH	100	root				
 last	HRAFT	LAFT	101	root				
-child	KAOEULD	KIILD	102	root	KHAOEULD			
+child	KHAOEULD	CHIILD	102	root	KAOEULD			
 children	KHEURPB	CHIRN	102	plural	KHEUFRPB, TKHEURPB, KHEULD/REPB, KHEUL/TKREPB, KHEULD/TKREPB	A school is a place where teachers KHEURN (churn) children around and turn them into adults, or at least teenagers.		brief
 tell	TEL	TEL	103	root	A/TEL			
 told	TOLD	TOLD	103	conjugation	TOELD, TO*ELD			
-really	HROERL	LOERL	104	root	RAOERL, HRAOERL, HRAO*ERL, PHRAOERL, THRAOERL			
+really	RAOERL	REERL	104	root	HROERL, HRAOERL, HRAO*ERL, PHRAOERL, THRAOERL			
 call	KAUL	KAUL	105	root	KAUL/-L			
 before	PW-F	B-F	106	root	PW-FR, PWOFR			brief
 company	K-P	K-P	107	root	KPAEPB, KOFRP/TPH*EU, KOPL/PA/TPH*EU			brief
-through	THRU	TLU	108	root	TWHRU			brief
+through	THRU	THRU	108	root	TWHRU			
 down	TKOUPB	DOUN	109	root	TKOUB, TKOUP			
 show	SHOE	SHOE	110	root				
-life	HRAEUF	LAAF	111	root	HROEUF, HRAOEUF			
+life	HRAOEUF	LIIF	111	root	HRAEUF, HROEUF			
 man	PHAPB	MAN	112	root				
 men	PHEPB	MEN	112	plural				
-change	KHAEUBG	CHAAK	113	root	KHAEUPG, KHAEUPBG, KHAEUPBLG, KHRAEUPBG, KPHAEUPBG			
-changed	KHAEPBGD	CHAENGD	113	conjugation	KHAEUPBGD, KHAEUPBGSD, KHAEUPG/-D, KHAEUPB/-PBLGD, KHAEUPBG/-D/-D			
-changes	KHAEUPGS	CHAAPSHN	113	conjugation	KHAEUPBGS, KHAEUPBGS/-S, KHAEUPB/-PBLGS			
+change	KHAEUPBG	CHAANG	113	root	KHAEUBG, KHAEUPG, KHAEUPBLG, KHRAEUPBG, KPHAEUPBG			
 changing	KHAPBG/-G	CHANG/-G	113	conjugation	KHAEUPB/SKWR-G			
-place	PHRAEUS	MRAAS	114	root	TPHRAEUS	"An outhouse isn't the best-smelling place. Often, when people walk in, they go, ""PU--it stinks in here!!"""		brief
-placed	PHRAEUFD	MRAAFD	114	conjugation	PHRAEUSD, PHRAEUS/-D			
-places	PHRAEUFS	MRAAFS	114	conjugation	PHRAEUSZ, PHRA*EUFS, PHRAEUS/-S, PHRAEUS/EUS, PHRAEUSZ/-S			
-placing	PHRAEUFG	MRAAFG	114	conjugation	PHRAEUS/-G			
+place	PHRAEUS	PLAAS	114	root	TPHRAEUS			
+placed	PHRAEUFD	PLAAFD	114	conjugation	PHRAEUSD, PHRAEUS/-D			
+places	PHRAEUFS	PLAAFS	114	conjugation	PHRAEUSZ, PHRA*EUFS, PHRAEUS/-S, PHRAEUS/EUS, PHRAEUSZ/-S			
+placing	PHRAEUFG	PLAAFG	114	conjugation	PHRAEUS/-G			
 long	HROPBG	LONG	115	root				
-between	TWAOEB	TWEEB	116	root	TWAOEP, TWOEPB, TWAOEPB, TPWAOEPB, TWAOEPBL			
+between	TWAOEPB	TWEEN	116	root	TWAOEB, TWAOEP, TWOEPB, TPWAOEPB, TWAOEPBL			
 feel	TPAOEL	FEEL	117	root				
-feeling	TPAO*EL	F*EEL	117	conjugation	TPAOELG, TPAOEL/-G			
 felt	TPELT	FELT	117	conjugation				
 too	TAO	TOO	118	root				
 still	STEUL	STIL	119	root	STUL, STKEUL, STPEUL			brief
 problem	PRO*B	PRO*B	120	root	PRO*FB, TPRO*B, PROB/HREPL, PRO/PWHREPL			
-problems	PR*BS	PR*BS	120	plural	PROBS, PRO*BS, PRO*FBS, PRO*PBS, PRO*BS/-S			
-write	WREU	WRI	121	root	WRAOEUT			brief
-writes	WRAOEUTS	WRIITS	121	conjugation				
-wrote	WRO	WRO	121	conjugation	WROET			
+write	WRAOEUT	WRIIT	121	root	WREU			
+wrote	WRO	WRO	121	conjugation	WROET			brief
 same	SAEUPL	SAAM	122	root	SAEUPLT, SAOEUPL			
 lot	HROT	LOT	123	root				
-great	TKWRAET	DWRAET	124	root	TPWRAET, TKPWRAET, TKPWHRAET	There are a lot of great things about living in S-F (San Francisco), but what's not so great are the astronomical real estate and rental prices.		brief
+great	TKPWRAET	GRAET	124	root	TKWRAET, TPWRAET, TKPWHRAET			
 greater	TKPWRAERT	GRAERT	124	comparative	TKPWHRAERT, TKPRAET/*ER, TKPWRAET/*ER			brief
-greatest	TKPWRAEUT/EFT	GRAAT/EFT	124	superlative				
+greatest	TKPWRAEUT/EFT	GRAAT/EFT	124	superlative			GRAET/EFT also works	missing
 try	TREU	TRI	125	root	TRAOEU			brief
-tried	TROEUD	TROID	125	conjugation	TRAOEUD, TRAOEU/-D			
-tries	TRAOEUS	TRIIS	125	conjugation	TRAOEUZ, TRAO*EUS, TRAOEU/-S			
-trying	TRAO/-G	TROO/-G	125	conjugation	TRAOEUG, TPRAOEUG, TRAEU/-G, TRAOEULG, TRAOEU/-G			
+tried	TROEUD	TROID	125	conjugation	TRAOEUD, TRAOEU/-D		TRID also works	missing
+tries	TRAOEUS	TRIIS	125	conjugation	TRAOEUZ, TRAO*EUS, TRAOEU/-S		TRIS also works	missing
+trying	TRAOEUG	TRIIG	125	conjugation	TRAO/-G, TPRAOEUG, TRAEU/-G, TRAOEULG, TRAOEU/-G			
 leave	HREF	LEF	126	root	HRAO*EF			
 number	TPHUPL	NUM	127	root	TPHURPL, TPHUPL/ER, TPHUPL/PWER			brief
 both	PWO*T	BO*T	128	root	WO*ET, PWO*ET			brief
 own	OEPB	OEN	129	root				
 part	PART	PART	130	root	35R9, PARBTD			
-point	POEUBT	POIBT	131	root	POEUPT, POUPBT, POEUPBT, TPOEUPBLT	"A fellow with back pain asks: ""what's the point of P-T (physical therapy) if I can just take an Advil?"		
-pointed	POEUPTD	POIPTD	131	conjugation	POEUPBTD, POEUPBT/-D			
+point	POEUPBT	POINT	131	root	POEUBT, POEUPT, POUPBT, TPOEUPBLT			
 pointing	POEUPBGT	POINGT	131	conjugation	POEUPBLT, POEUPBT/-G, PAOEUPBT/-G			
-points	POEUPBTS	POINTS	131	conjugation	POEUBT/-S, POEUPT/-S, POEUPBT/-S, POEUPBLT/-S			
 little	HREUL	LIL	132	root	HREL, HR*EUL, HREUT/-L			brief
 help	HEP	HEP	133	root	HEFP, HEL/-P			brief
 ask	SK	SK	134	root	SKW			brief
@@ -222,14 +213,13 @@ talk	TAUBG	TAUK	137	root
 talking	TAUG	TAUG	137	conjugation	TAUB/-G, TAUBG/-G, TOUBG/-G			
 something	S-G	S-G	138	root	ST-G, SPH-G, STHEUPBG, SPH/THEUPBG			brief
 put	PUT	PUT	139	root	PULT, PURT			
-putting	P*UG	P*UG	139	conjugation	PUGT, PUT/-G, P*UT/-G, PULT/-G, PUT/-LG			
+putting	PUGT	PUGT	139	conjugation	P*UG, PUT/-G, P*UT/-G, PULT/-G, PUT/-LG			
 another	TPHOER	NOER	140	root	TPHO*ER, TPHOEFR, TPHOERB, A/TPHOER			brief
 become	PW-BG	B-K	141	root	P-BG	One child's dream is to become the BK (Burger King).		brief
 became	PWAEUPL	BAAM	141	conjugation				
-becoming	P-BG/-G	P-K/-G	141	conjugation	PW-BG/-G			
+becoming	PW-BG/-G	B-K/-G	141	conjugation	P-BG/-G			brief
 interest	TR	TR	142	root	T-R, SPWR*ES, SPWER/*ES, EUPB/TR*ES, EUPBT/REFT	Thanksgiving, which falls on a TR (Thursday), is a time to spend with family, but people often show more interest in the food.		brief
-country	KREU	CI	143	root	KUPBT, KUPBLT, KUPB/TREU, KUPBT/REU, KOUPB/TREU			brief
-countries	KUPBTS	KUNTS	143	plural	KUPBTSZ, KUPB/TREUS			
+country	KUPBT	KUNT	143	root	KREU, KUPBLT, KUPB/TREU, KUPBT/REU, KOUPB/TREU			brief
 old	OLD	OLD	144	root	OELD, OELTD			
 older	OERLD	OERLD	144	comparative				
 oldest	OELD/EFT	OELD/EFT	144	superlative				
@@ -237,14 +227,14 @@ each	AOEFP	EECH	145	root
 school	SKAOL	SKOOL	146	root				
 late	HRAEUT	LAAT	147	root				
 high	HAOEU	HII	148	root				brief
-highest	450EU/EFT	/EFT	148	superlative	HAOEU/EFT, HAOEU/EFLT			
-different	TEUFRPB	TIFRN	149	root	TKEFRPB, TKEUFPB, TKEUFRB, TKEUFRP, TKEUFRT			
+highest	HAOEU/EFT	HII/EFT	148	superlative	450EU/EFT, HAOEU/EFLT			
+different	TKEUFRB	DIFRB	149	root	TEUFRPB, TKEFRPB, TKEUFPB, TKEUFRB, TKEUFRP, TKEUFRT		DIFRN also works	missing
 off	OF	OF	150	root				
 next	TPHEGT	NEGT	151	root	234EG9, TPHEFGT, TPHELGT, TPH*EBGS			brief
 end	EPBD	END	152	root	EPD, EPBTD			
 ended	EPBD/-D	END/-D	152	conjugation				
 ending	EPBGD	ENGD	152	conjugation	EPBD/-G			
-ends	EPDZ	EPDZ	152	conjugation	EPBDZ			
+ends	EPBDZ	ENDZ	152	conjugation	EPDZ			
 live	HREUF	LIF	153	root	HR*EUF			
 why	KWR	Y	154	root	KWHR, TKWR, WHAOEU			brief
 while	WHAOEUL	WHIIL	155	root				

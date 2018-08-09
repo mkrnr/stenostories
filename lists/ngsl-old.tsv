@@ -4,6 +4,7 @@ given	TKPWEUFPB	GIFN	77	conjugation	TKPWEUFP, TKPW*EUFPB, TKPWEUFRPB, TKPWEUF/EP
 gives	TKPWEUFS	GIFS	77	conjugation	TPEUFS, TKPWUFS, TPWEUFS			old
 giving	TKPWEUFG	GIFG	77	conjugation	TKPWUFG, TPHEUFG, TKPWEUFGS, TKPWEUFPG, TKPWEUF/-G			old
 things	THEUPBGS	THINGS	87	plural	THEUBGS, THEUPGS, SHEUPBGS, STHEUPBGS, THEUPBLGS			old
+needs	TPHAOEDZ	NEEDZ	90	conjugation	THAOEDZ, 23450EDZ, TPHAOESD, TPHAOETDZ, TPHAOEUDZ			old
 changed	KHAEUPBGD	CHAANGD	113	conjugation	KHAEPBGD, KHAEUPBGSD, KHAEUPG/-D, KHAEUPB/-PBLGD, KHAEUPBG/-D/-D			old
 changes	KHAEUPBGS	CHAANGS	113	conjugation	KHAEUPGS, KHAEUPBGS/-S, KHAEUPB/-PBLGS			old
 feeling	TPAOELG	FEELG	117	conjugation	TPAO*EL, TPAOEL/-G			old
@@ -12,3 +13,99 @@ writes	WRAOEUTS	WRIITS	121	conjugation				old
 pointed	POEUPBTD	POINTD	131	conjugation	POEUPTD, POEUPBT/-D			old
 points	POEUPBTS	POINTS	131	conjugation	POEUBT/-S, POEUPT/-S, POEUPBT/-S, POEUPBLT/-S			old
 countries	KUPBTS	KUNTS	143	plural	KUPBTSZ, KUPB/TREUS			old
+ends	EPBDZ	ENDZ	152	conjugation	EPDZ			old
+kinds	KEUPBDZ	KINDZ	176	plural	KAOEUPBZ, KAOEUPDZ, KAOEUPBDZ, KAOEUPBSDZ			old
+runs	RUPBS	RUNS	192	conjugation	RUPS, RUPB/-S			old
+turns	TURPBS	TURNS	194	conjugation	TURPS, TURPB/-S			old
+friends	TPREPBDZ	FRENDZ	208	plural	TPREPBSD, TPREPBLDZ, TPWREPBDZ			old
+months	PHO*PBTS	MO*NTS	209	plural	PHO*PTS, PHO*PBTSZ, PHO*PT/-S, PHO*PBT/-S, TPHO*PBT/-S			old
+words	WORDZ	WORDZ	217	plural	WOBDZ, WORSD, WORBDZ, WORSDZ			old
+issues	*EURBS	*ISHS	218	conjugation	*EUBS, *EURBGS, *EUFRB/-S, *EURPB/-S, EURB/AOUS			old
+builds	PWEULDZ	BILDZ	221	conjugation				old
+holds	HOLDZ	HOLDZ	222	conjugation	HOELDZ, HOELTDZ, HOELD/-S/-S			old
+happens	HAPS	HAPS	236	conjugation	HABS, HAP/-PBS			old
+offering	OFRG	OFRG	237	conjugation	OFG, OFR/-G, AUFR/-G, AUF/ER/-G			old
+leads	HRAEDZ	LAEDZ	241	conjugation	HRAOEDZ, HRAOED/-S			old
+understands	URPBDZ	URNDZ	243	conjugation	URBDZ, UPBD/STAPBS, UPBD/STAPBDZ, UPBD/STAPBD/-Z			old
+thanked	THAPBGD	THANGD	244	conjugation	THAPBG/-D, THAPB/-BGD			old
+thanks	THAPBGS	THANGS	244	conjugation	THA*PBGS, THAPBG/-S, THAPB/-BGS			old
+hours	HOURS	HOURS	247	plural	HAURS			old
+spends	SPEPBDZ	SPENDZ	258	conjugation	SPEPBD/-Z			old
+heads	HEDZ	HEDZ	259	conjugation	HED/-Z			old
+learning	HRERPBG	LERNG	261	conjugation	HRERPG, HRERPB/-G			old
+members	PHEPLS	MEMS	266	plural	PHEB/-S, PHEPL/-S			old
+ages	AEUPBLGS	AAJS	282	plural	AEPBLGS			old
+training	TRAEUPBG	TRAANG	289	conjugation	TRAEUPG, TRAEUPB/-G			old
+concerns	KERPBS	KERNS	303	plural	K-RPBS			old
+stands	STAPBDZ	STANDZ	309	conjugation	STAPBD/-S, STAPBD/-Z			old
+sends	SEPBDZ	SENDZ	323	conjugation	SEPBD/-Z			old
+tested	TEFTD	TEFTD	332	conjugation	T*EFD			old
+tests	TEFTS	TEFTS	332	conjugation	TEFGTS, TEFLTS, TEFTSZ			old
+records	RORDZ	RORDZ	344	conjugation	RORD/-S, RORD/-Z, REBG/ORDZ, REBG/KORDZ			old
+minutes	PHEUPBS	MINS	366	conjugation	PHEUBS, PHEUP/-S, PHEUPB/-S, PHEU/TPHUTS, PHEUPBS/TP-PL			old
+foods	TPAODZ	FOODZ	367	plural				old
+cleared	KHRAOERD	KLEERD	369	conjugation				old
+clearing	KHRAOERG	KLEERG	369	conjugation	KHRAOER/-G, KHRAOERPBG			old
+clears	KHRAOERS	KLEERS	369	conjugation				old
+remained	RE/PHAEUPBD	RE/MAAND	374	conjugation	RAOE/PHAEUPBD, RE/PHAEUPB/-D			old
+remaining	RE/PHAEUPBG	RE/MAANG	374	conjugation	RE/PHAEPBG, RAOE/PHAEUPBG, RE/PHAEUPB/-G			old
+remains	RE/PHAEUPBS	RE/MAANS	374	conjugation	RAOE/PHAEUPBS, RE/PHAEUPB/-S			old
+periods	PAOERDZ	PEERDZ	382	plural	PAOERD/-S, PAOERD/-Z, PER/KWRODZ, PAOER/KWRODZ			old
+adds	ADZ	ADZ	414	conjugation				old
+forwards	TPAORDZ	FOORDZ	452	conjugation	TPWARDZ			old
+lands	HRAPBDZ	LANDZ	497	plural				old
+regards	RARDZ	RARDZ	511	conjugation	RARD/-S, RARD/-Z, RE/TKPWARDZ			old
+rounds	ROUPBDZ	ROUNDZ	519	conjugation	ROUPBLDZ, ROUPBD/-S, ROUPBD/-Z			old
+roads	RAODZ	ROODZ	521	plural	RAOSD, ROEDZ, RAOD/-S, RAOD/-Z			old
+funds	TPUPBDZ	FUNDZ	527	conjugation				old
+kids	KEUDZ	KIDZ	529	plural	KREUDZ, KWEUDZ			old
+fields	TPAOELDZ	FEELDZ	540	plural				old
+standards	ST-DZ	ST-DZ	547	conjugation	ST-TDZ, STARDZ, STAPBD/ARDZ, STAPB/TKARDZ, STAPBD/ARD/-Z			old
+grounds	TKPWROUPBDZ	GROUNDZ	586	plural				old
+evenings	AOEPBGS	EENSHN	679	plural				old
+beds	PWEDZ	BEDZ	694	plural				old
+methods	PHO*DZ	MO*DZ	755	plural	PH*ETDZ, PH*ET/ODZ			old
+cards	KARDZ	KARDZ	781	plural	KARTDZ			old
+reds	REDZ	REDZ	800	conjugation				old
+attends	A/TEPBDZ	A/TENDZ	819	conjugation				old
+tends	TEPBDZ	TENDZ	842	conjugation	TEPBD/-Z			old
+weekends	WAOEBGDZ	WEEKDZ	933	plural	WAOEBG/-PBDZ, WAOEBG/EPBDZ, WAOEBG/*EPBDZ			old
+extends	EBGS/TEPBDZ	EX/TENDZ	949	conjugation				old
+winds	WEUPBDZ	WINDZ	1011	conjugation	WAOEUPBDZ			old
+bloods	PWHRAODZ	BLOODZ	1016	plural				old
+bands	PWAPBDZ	BANDZ	1085	plural				old
+speeds	SPAOEDZ	SPEEDZ	1104	conjugation	SPAOED/-Z			old
+intends	SPWEPBDZ	SBENDZ	1112	conjugation	EUPB/TEPBDZ			old
+responds	SPOPBDZ	SPONDZ	1114	conjugation	SPOPBD/-S, SPOPBTSDZ, RE/SPOPBDZ, RAOE/SPOPBDZ			old
+crowds	KROUDZ	COUDZ	1185	plural				old
+spreads	SPREDZ	SPREDZ	1195	conjugation				old
+birds	PWEURDZ	BIRDZ	1269	plural				old
+trends	TREPBDZ	TRENDZ	1279	plural	TREPBD/-Z			old
+aids	AEUDZ	AADZ	1303	conjugation	AEUD/-S			old
+expands	EBGS/PAPBDZ	EX/PANDZ	1319	conjugation				old
+awards	A/WARDZ	A/WARDZ	1339	plural				old
+woods	WAODZ	WOODZ	1465	plural				old
+affords	AFRDZ	AFRDZ	1486	conjugation	A/TPORDZ			old
+bonds	PWOPBDZ	BONDZ	1511	plural				old
+brands	PWRAPBDZ	BRANDZ	1547	plural				old
+dads	TKADZ	DADZ	1630	plural				old
+yards	KWRARDZ	YARDZ	1665	plural	KWRARD/-S			old
+guards	TKPWARDZ	GARDZ	1675	conjugation	TKPWHRARDZ			old
+neighborhoods	TPHAODZ	NOODZ	1692	plural	TPHAO*DZ, TPHAEUBDZ, TPHAEUB/HAODZ, TPHAEU/PWOR/HAODZ			old
+commands	KPHAPBDZ	XHANDZ	1712	conjugation	KOPL/PHAPBDZ			old
+yields	KWRAOELDZ	YEELDZ	1731	conjugation				old
+households	HOUS/HOLDZ	HOUS/HOLDZ	1744	plural	HOUS/HOELDZ			old
+seeds	SAOEDZ	SEEDZ	1813	plural				old
+defends	TKEFDZ	DEFDZ	1872	conjugation	TKEFPBDZ, TKE/TPEPBDZ, TKAOE/TPEPBDZ			old
+moods	PHAODZ	MOODZ	2064	plural				old
+clouds	KHROUDZ	KLOUDZ	2088	conjugation				old
+bids	PWEUDZ	BIDZ	2195	conjugation				old
+breeds	PWRAOEDZ	BREEDZ	2196	conjugation				old
+bends	PWEPBDZ	BENDZ	2266	conjugation				old
+floods	TPHRAODZ	NROODZ	2272	conjugation				old
+lends	HREPBDZ	LENDZ	2303	conjugation				old
+compounds	KPOUPBDZ	XOUNDZ	2378	conjugation	KPOUPBSDZ, KPOUPBTSD, KOPL/POUPBDZ			old
+corresponds	KOERZ	KOERZ	2397	conjugation	KO*ERS, KOR/SPOPBDZ, KOR/RE/SPOPBDZ			old
+rids	REUDZ	RIDZ	2401	conjugation	REUD/-S, REUD/-Z			old
+exceeds	KPAOEDZ	XEEDZ	2506	conjugation	EBGS/AOEDZ, EGS/SAOEDZ, EBGS/SAOEDZ			old
+liquids	KWEULDZ	QILDZ	2689	conjugation	HREU/KWEUDZ, HREUBG/WEUDZ			old

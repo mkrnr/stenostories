@@ -14,9 +14,14 @@ pointed	POEUPBTD	POINTD	131	conjugation	POEUPTD, POEUPBT/-D			old
 points	POEUPBTS	POINTS	131	conjugation	POEUBT/-S, POEUPT/-S, POEUPBT/-S, POEUPBLT/-S			old
 countries	KUPBTS	KUNTS	143	plural	KUPBTSZ, KUPB/TREUS			old
 ends	EPBDZ	ENDZ	152	conjugation	EPDZ			old
+groups	TKPWRAOUPS	GRUUPS	167	plural	TKPRAOUPS, TPWRAOUPS, TKPWRAOUPLS			old
+seemed	SAOEPLD	SEEMD	173	conjugation	150E78D			old
 kinds	KEUPBDZ	KINDZ	176	plural	KAOEUPBZ, KAOEUPDZ, KAOEUPBDZ, KAOEUPBSDZ			old
+beginning	TKPWEUPBG	GING	189	conjugation	STKPWEUPG, STKWEUPBG, STKPWEUPBG, STKPEUPB/-G, STKPWEPB/-G			old
 runs	RUPBS	RUNS	192	conjugation	RUPS, RUPB/-S			old
 turns	TURPBS	TURNS	194	conjugation	TURPS, TURPB/-S			old
+hands	HAPBDZ	HANDZ	198	plural	HAPDZ, HAPBSD, KHAPBDZ			old
+moved	PHOFD	MOFD	200	conjugation	3406D, PHOF/-D, PHOFD/-D			old
 friends	TPREPBDZ	FRENDZ	208	plural	TPREPBSD, TPREPBLDZ, TPWREPBDZ			old
 months	PHO*PBTS	MO*NTS	209	plural	PHO*PTS, PHO*PBTSZ, PHO*PT/-S, PHO*PBT/-S, TPHO*PBT/-S			old
 words	WORDZ	WORDZ	217	plural	WOBDZ, WORSD, WORBDZ, WORSDZ			old
@@ -30,6 +35,7 @@ understands	URPBDZ	URNDZ	243	conjugation	URBDZ, UPBD/STAPBS, UPBD/STAPBDZ, UPBD/
 thanked	THAPBGD	THANGD	244	conjugation	THAPBG/-D, THAPB/-BGD			old
 thanks	THAPBGS	THANGS	244	conjugation	THA*PBGS, THAPBG/-S, THAPB/-BGS			old
 hours	HOURS	HOURS	247	plural	HAURS			old
+students	STAOUPBTS	STUUNTS	248	plural	STAOUPBDZ, STAOUPB/-S, STAOUPBGTS, STAOUPBTSD, STAOUPT/-S			old
 spends	SPEPBDZ	SPENDZ	258	conjugation	SPEPBD/-Z			old
 heads	HEDZ	HEDZ	259	conjugation	HED/-Z			old
 learning	HRERPBG	LERNG	261	conjugation	HRERPG, HRERPB/-G			old
@@ -38,15 +44,18 @@ ages	AEUPBLGS	AAJS	282	plural	AEPBLGS			old
 training	TRAEUPBG	TRAANG	289	conjugation	TRAEUPG, TRAEUPB/-G			old
 concerns	KERPBS	KERNS	303	plural	K-RPBS			old
 stands	STAPBDZ	STANDZ	309	conjugation	STAPBD/-S, STAPBD/-Z			old
+dealing	TKAOELG	DEELG	321	conjugation	TAOELG, TKAOEG, TKAOEL/-G			old
 sends	SEPBDZ	SENDZ	323	conjugation	SEPBD/-Z			old
 tested	TEFTD	TEFTD	332	conjugation	T*EFD			old
 tests	TEFTS	TEFTS	332	conjugation	TEFGTS, TEFLTS, TEFTSZ			old
+minds	PHAOEUPBDZ	MIINDZ	341	conjugation	PHAOEUPBD/-S			old
 records	RORDZ	RORDZ	344	conjugation	RORD/-S, RORD/-Z, REBG/ORDZ, REBG/KORDZ			old
 minutes	PHEUPBS	MINS	366	conjugation	PHEUBS, PHEUP/-S, PHEUPB/-S, PHEU/TPHUTS, PHEUPBS/TP-PL			old
 foods	TPAODZ	FOODZ	367	plural				old
 cleared	KHRAOERD	KLEERD	369	conjugation				old
 clearing	KHRAOERG	KLEERG	369	conjugation	KHRAOER/-G, KHRAOERPBG			old
 clears	KHRAOERS	KLEERS	369	conjugation				old
+futures	TPAOURTS	FUURTS	370	conjugation	TPAOURTSZ, TPAOU/KHURS, TPAOUT/TAOURS			old
 remained	RE/PHAEUPBD	RE/MAAND	374	conjugation	RAOE/PHAEUPBD, RE/PHAEUPB/-D			old
 remaining	RE/PHAEUPBG	RE/MAANG	374	conjugation	RE/PHAEPBG, RAOE/PHAEUPBG, RE/PHAEUPB/-G			old
 remains	RE/PHAEUPBS	RE/MAANS	374	conjugation	RAOE/PHAEUPBS, RE/PHAEUPB/-S			old

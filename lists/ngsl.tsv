@@ -254,9 +254,8 @@ houses	HO*UFS	HO*UFS	165	plural	HOUS/-S		HOUSZ also works.	missing
 report	ORP	ORP	166	root	RORP, RORT, RORPT	"A food critic gets to eat tasty food and report on how good it tastes. He's so full at the end of one meal, though, that all he can say (and write) is ""ORP"" (which we'll call onomatopoeia for ""I'm really full"")."		brief
 reported	RORPD	RORPD	166	conjugation			ORPD also works.	brief missing
 reporting	RORPG	RORPG	166	conjugation	RORP/-G		ORPG also works	brief missing
-reports	RORPS	RORPS	166	conjugation	RORP/-S		ORPS also works 	brief missing
+reports	RORPS	RORPS	166	conjugation	RORP/-S		ORPS also works	brief missing
 group	TKPWRAOUP	GRUUP	167	root	TKPWRAUP, TKPWROUP, KWRAOUP, TPWRAOUP, TKPWHRAOUP			
-groups	TKPWRAOUPS	GRUUPS	167	plural	TKPRAOUPS, TPWRAOUPS, TKPWRAOUPLS			
 case	KAEUS	KAAS	168	root	KWAEUS			
 cases	KAEUSZ	KAASZ	168	plural	KA*EUFS			
 woman	WOPL	WOM	169	root	W078, WOPL/PHAPB			brief
@@ -265,7 +264,6 @@ around	ARPBD	ARND	170	root	A/ROUBD, A/ROUPD, A/ROUPBD, A/ROUPBT, A/HROUPBD			bri
 book	PWAOBG	BOOK	171	root	PAOBG, PWAOPBG			
 family	TPAEPL	FAEM	172	root				
 seem	SAOEPL	SEEM	173	root				
-seemed	SAOEPLD	SEEMD	173	conjugation	150E78D			
 let	HRET	LET	174	root				
 lets	HR*ETS	L*ETS	174	conjugation			LETS also works	missing
 letting	HR*EGT	L*EGT	174	conjugation	HRAO*EGT		LEGT also works	missing
@@ -296,7 +294,6 @@ follow	TPOL	FOL	188	root	TPOL/HROE	If you have a tendency to FOL (fall) on hikes
 follower	TPOL/*ER	FOL/*ER	188	comparative				
 begin	TKPWEUPB	GIN	189	root	STKPEUPB, STKWEUPB, STPWEUPB, STKPWEUPB, STKPW*EUPB			
 began	TKPWAPB	GAN	189	conjugation	STKPWAPB, PWE/TKPWAPB			brief
-beginning	TKPWEUPBG	GING	189	conjugation	STKPWEUPG, STKWEUPBG, STKPWEUPBG, STKPEUPB/-G, STKPWEPB/-G			
 begins	STKPWEUPBS	ZINS	189	conjugation			GINS should also work?	
 begun	TKPWUPB	GUN	189	conjugation	STKPWUPB, PWE/TKPWUPB			
 important	PORPB	PORN	190	root	PORPBT, EUPL/POR/TAPBT, EUPL/PORT/TAPBT			brief
@@ -312,10 +309,8 @@ bring	PWREU	BRI	196	root	PWREUPBG	Don't forget to bring the PWREU (brie) to the 
 brought	PWROUT	BROUT	196	conjugation	PWRAUT, PWRAUGT			
 early	ERL	ERL	197	root	ER/HREU, *ER/HREU, ERL/HREU			brief
 hand	HAPBD	HAND	198	root	SHAPBD, HAPBD/SHAEUBGS			
-hands	HAPBDZ	HANDZ	198	plural	HAPDZ, HAPBSD, KHAPBDZ			
 state	STAEUT	STAAT	199	root				
 move	PHOF	MOF	200	root	PHO*F, PHAO*UF			brief
-moved	PHOFD	MOFD	200	conjugation	3406D, PHOF/-D, PHOFD/-D			
 money	PHUPB	MUN	201	root	PHUB, 34U7B, PHO/TPHAOE, PHOPB/KWRAE, PHOPB/TPH*EU			brief
 monies	PHOPB/KWREU/-S	MON/YI/-S	201	plural			Does this word even exist?	
 fact	TPABGT	FAKT	202	root	TPABT, TPABLGT, TPAPBGT			
@@ -400,7 +395,6 @@ far	TPAR	FAR	245	root
 today	TOED	TOED	246	root		Today was not a good day if your car broke down and had to be TOED (towed) to a repair place.		brief
 hour	HOUR	HOUR	247	root				
 student	STAOUPBT	STUUNT	248	root	STAUPB, STAOUPT, STAO*UPBT, STAOUPBLT, STAOUD/EPBT			brief
-students	STAOUPBTS	STUUNTS	248	plural	STAOUPBDZ, STAOUPB/-S, STAOUPBGTS, STAOUPBTSD, STAOUPT/-S			brief
 face	TPAEUS	FAAS	249	root				
 faced	TPAEUFD	FAAFD	249	conjugation	TPA*EUFD, TPAEUS/-DZ			
 faces	TPAEUFS	FAAFS	249	conjugation	TPAEUS/-S			
@@ -523,7 +517,6 @@ falling	TPAULG	FAULG	320	conjugation	TPAUL/-G		FALG also works.	missing
 falls	TPAULZ	FAULZ	320	conjugation	TPA*ULS		FAULS also works.	missing
 fell	TPEL	FEL	320	conjugation				
 deal	TKAOEL	DEEL	321	root	STKAOEL			
-dealing	TKAOELG	DEELG	321	conjugation	TAOELG, TKAOEG, TKAOEL/-G			
 dealt	TKELT	DELT	321	conjugation				
 water	WAUR	WAUR	322	root	WAURB, WAT/ER, WAT/*ER, WAUT/ER, WAUT/*ER			brief
 send	SEPBD	SEND	323	root				
@@ -567,7 +560,6 @@ mattering	PHAT/ER/-G	MAT/ER/-G	340	conjugation
 mind	PHAOEUPBD	MIIND	341	root	PHAEUPBD, PHOEUPBD			
 minded	PHAOEUPBD/-D	MIIND/-D	341	conjugation				
 minding	PHAOEUPBD/-G	MIIND/-G	341	conjugation				
-minds	PHAOEUPBDZ	MIINDZ	341	conjugation	PHAOEUPBD/-S			
 value	SRAOUL	VUUL	342	root	SRAL/U, KAL/AOU, SRAL/OU, SRAO*UL, SR-L/AOU	"A storekeeper admonishes you: ""you would be a SRAOUL (fool) not to see value in this product!"""		brief
 values	SRAL/-S	VAL/-S	342	plural	SRAOULS, SRAOUPLS, SRAL/AOUS			
 office	OFS	OFS	343	root	AUFS, AUF/EUS, AU/TPEUS, AUF/TPEUS			brief
@@ -620,7 +612,6 @@ clear	KHRAOER	KLEER	369	root	KAOER			brief
 clearer	KHRAOER/*ER	KLEER/*ER	369	comparative	KHAOER/*ER			
 clearest	KHRAOER/EFT	KLEER/EFT	369	superlative				
 future	TPAOURT	FUURT	370	root	TPAOUFP, TPAURT, AOUT/AOUR, TPAOUT/UR, TPAOU/KHUR			
-futures	TPAOURTS	FUURTS	370	conjugation	TPAOURTSZ, TPAOU/KHURS, TPAOUT/TAOURS			
 either	AOERT	EERT	371	root	AO*ERT, AOERLT, AOEURT, E/THER, RAOERT	You have enough money left at the store to buy either an AOER (ear) of corn or a box of T (tea). Hard choice!		brief
 ago	AG	AG	372	root	A/AG	A state AG (Attorney General) wins acclaim for resolving a cold case for a crime that had been committed long ago.		brief
 per	PER	PER	373	root				
@@ -2990,7 +2981,7 @@ counties	KOUPBT/EUS	KOUNT/IS	1734	plural	KOUPBT/KWREUS
 unlike	UPB/HRAOEUBG	UN/LIIK	1735	root				
 mobile	PHOEBL	MOEBL	1736	root	PHO*EBL, PHOEB/EUL, PHOE/PWEUL, PHOE/PWAOEL, PHOEB/AOEUL			
 assistant	SEUFPBT	SIFNT	1737	root	A/SEUFPBT, S-S/TAPBT, A/SEUS/APBT, A/SEUFT/APBT, A/SEUS/TAPBT			brief
-implement	EUPLT	IMT	1738	root	*EUPLT, EUPL/*PLT, *EUPL/*PLT, EUPLT/*PLT, *EUPLT/*PLT	The (fictional) company Internet Medical Technology wants your hospital to implement their electonic medical records system . . . Â but you realize it's really a coalition of hackers who just want to steal everyone's medical data!		brief
+implement	EUPLT	IMT	1738	root	*EUPLT, EUPL/*PLT, *EUPL/*PLT, EUPLT/*PLT, *EUPLT/*PLT	The (fictional) company Internet Medical Technology wants your hospital to implement their electonic medical records system ... but you realize it's really a coalition of hackers who just want to steal everyone's medical data!		brief
 implemented	EUPL/PHREPLT/-D	IM/MREMT/-D	1738	conjugation				
 implementing	EUPLT/-G	IMT/-G	1738	conjugation	EUPL/PHREPLT/-G			
 implements	EUPL/PHREPLTS	IM/MREMTS	1738	conjugation				

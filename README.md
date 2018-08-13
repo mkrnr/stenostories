@@ -1,12 +1,18 @@
-# ROPE – Remembering Outlines in Plover more Easily
+# Stenostories
 
 ## Intro and TL;DR
 
-ROPE is a guide to learning and recalling Plover outlines for common English words. It does this in two ways: first, it relies on Anki's spaced repetition system to help you solidify the outlines in your memory. Second, it includes mnemonic devices (in the form of stories) for a sizeable chunk of the outlines. These stories serve to connect the outlines to their corresponding word by including words that are similar to the components of the outlines. 
+Stenostories is a guide to learning and recalling Plover outlines for common English words. It does this in two ways: first, it relies on Anki's spaced repetition system to help you solidify the outlines in your memory. Second, it includes mnemonic devices (in the form of stories) for a sizeable chunk of the outlines. These stories serve to connect the outlines to their corresponding word by including words that are similar to the components of the outlines. 
 
 ## History
 
-ROPE was initiated by Kenneth Burchfiel and released to the public domain. His first version was based on the word frequency list Mark Davies containing 5000 English words. To allow easier collaboration, Martin Körner ported the list to a non-binary format and uploaded it to GitHub. To allow the publication of the whole list under a [CC0 license](LICENSE), we switched to the [NGSL word frequency list](http://www.newgeneralservicelist.org/). This list was extended to include interesting plurals, conjugations, and other extensions of the root words in the list. Most of this README file was written by Kenneth Burchfiel.
+Stenostories is based on ROPE which was initiated by Kenneth Burchfiel and released to the public domain. His first version was based on the word frequency list Mark Davies containing 5000 English words. To allow easier collaboration, Martin Körner ported the list to a non-binary format and uploaded it to GitHub. To allow the publication of the whole list under a [CC0 license](LICENSE), we switched to the [NGSL word frequency list](http://www.newgeneralservicelist.org/). This list was extended to include interesting plurals, conjugations, and other extensions of the root words in the list. 
+
+At the beginning, this GitHub repository was also called ROPE but then was renamed to stenostories to prevent confusion between it and the original ROPE list which is [maintained separately](https://www.reddit.com/r/Plover/comments/8wzppp/rope_21_remembering_outlines_in_plover_more).
+
+Additional information on stenostories can be found on [stenoblog.com](https://stenoblog.com/intro-to-stenostories).
+
+Most of this README file was written by Kenneth Burchfiel.
 
 ## Stories
 
@@ -14,7 +20,7 @@ ROPE was initiated by Kenneth Burchfiel and released to the public domain. His f
 
 The credit for the idea of using mnemonic stories to recall information goes to James Heisig, the author of the brilliant Remembering the Kanji and Remembering the Hanzi books. Heisig wrote those books to help people learn the characters that are found in written Japanese and Chinese. His premise was that in order to remember how to write characters, you need to look at the individual elements of those characters, and then craft a story that connects those elements to the meaning of the character.
 
-The stories in ROPE use a similar concept. Generally, any given story uses one or more words inspired by the letters in the Plover outline to link those letters to the word that the outline produces. (There will be examples, don't worry!) The idea is that when you're faced with a word in English that you're trying to remember the outline for, you'll first remember the story for that word, as stories are easier to remember than strings of letters. Each story has one or more words that represent some or all of the letters in the outline. Once you remember those words, you'll be able to transition from the words to the letters in the outline, perhaps aided by characteristics in the original word and/or your understanding of steno theory. 
+The stories in stenostories use a similar concept. Generally, any given story uses one or more words inspired by the letters in the Plover outline to link those letters to the word that the outline produces. (There will be examples, don't worry!) The idea is that when you're faced with a word in English that you're trying to remember the outline for, you'll first remember the story for that word, as stories are easier to remember than strings of letters. Each story has one or more words that represent some or all of the letters in the outline. Once you remember those words, you'll be able to transition from the words to the letters in the outline, perhaps aided by characteristics in the original word and/or your understanding of steno theory. 
 
 As a disclaimer, these stories do not solve all the work of remembering an outline. That's because this is not a precise system in which each letter always maps to the same word in a story. Depending on their context, any given letter or series of letters in an outline can mean different things story to story. Also, the words in the story can be based off just one letter in the outline, or they can be based off multiple (or all of) the letters in the outline. Finally, the stories generally focus on parts of an outline that will be hard to remember, and may not mention letters that you would know to include anyway. We mention all this because this mnemonic system is a little "fuzzier" than a system where the mnemonic device takes all the guesswork away. (The advantage of a 'fuzzy' system, in my view, is that it's much more flexible and allows you to create stories in many different ways. It also allows for much shorter and simpler stories with fewer elements in them to remember.)
 
@@ -202,7 +208,7 @@ What I do believe, though, is that learning a word systematically will often be 
 
 ### I just downloaded Plover for the first time tonight. Can I start using this immediately? 
 We wouldn't recommend using this until you've gone through all the terrific [Learn Plover! exercises](https://sites.google.com/site/ploverdoc/) and understand them well. We normally didn't include any information about interpreting outlines if it was already listed there. For instance, the stories assume that you know which combinations of keys on the Plover keyboard (e.g. PH-, -BG) map to which keys (e.g. M, K.).
-Once you've done the Learn Plover! exercises, we think you're ready to start ROPE if you'd like to. 
+Once you've done the Learn Plover! exercises, we think you're ready to start stenostories if you'd like to. 
 
 ### I want to focus on learning the most common 500/1000/2000 words first. Is there a way to do this?
 

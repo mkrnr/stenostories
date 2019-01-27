@@ -24,6 +24,7 @@ hands	HAPBDZ	HANDZ	198	plural	HAPDZ, HAPBSD, KHAPBDZ			old
 moved	PHOFD	MOFD	200	conjugation	3406D, PHOF/-D, PHOFD/-D			old
 friends	TPREPBDZ	FRENDZ	208	plural	TPREPBSD, TPREPBLDZ, TPWREPBDZ			old
 months	PHO*PBTS	MO*NTS	209	plural	PHO*PTS, PHO*PBTSZ, PHO*PT/-S, PHO*PBT/-S, TPHO*PBT/-S			old
+governments	TKPWOFTS	GOFTS	216	plural	TKPWO*FR/-PLTS, TKPWO*F/ER/-PLTS		G-FTS also works	old
 words	WORDZ	WORDZ	217	plural	WOBDZ, WORSD, WORBDZ, WORSDZ			old
 issues	*EURBS	*ISHS	218	conjugation	*EUBS, *EURBGS, *EUFRB/-S, *EURPB/-S, EURB/AOUS			old
 builds	PWEULDZ	BILDZ	221	conjugation				old
@@ -60,22 +61,65 @@ remained	RE/PHAEUPBD	RE/MAAND	374	conjugation	RAOE/PHAEUPBD, RE/PHAEUPB/-D			old
 remaining	RE/PHAEUPBG	RE/MAANG	374	conjugation	RE/PHAEPBG, RAOE/PHAEUPBG, RE/PHAEUPB/-G			old
 remains	RE/PHAEUPBS	RE/MAANS	374	conjugation	RAOE/PHAEUPBS, RE/PHAEUPB/-S			old
 periods	PAOERDZ	PEERDZ	382	plural	PAOERD/-S, PAOERD/-Z, PER/KWRODZ, PAOER/KWRODZ			old
+drives	TKRAOEUFS	DRIIFS	387	conjugation	TKREUFS			old
+driving	TKRAOEUFG	DRIIFG	387	conjugation	TKRAOFG, TKREUFG,  RAOEUFG, TKRAOEUFRG, TKRAOEUF/-G			old
+sounds	SOUPBDZ	SOUNDZ	390	conjugation	SOUPDZ, SOUPBSD, SOUPBD/-Z			old
+games	TKPWAEUPLS	GAAMS	393	plural	TKPAEUPLS			old
+teams	TAOEPLS	TEEMS	407	plural	TAOEPL/-S			old
 adds	ADZ	ADZ	414	conjugation				old
+designed	STKAOEUPBD	SDIIND	441	conjugation	STAOEUPBD, STKAO*EUPBD, TKAOE/SAOEUPBD			old
 forwards	TPAORDZ	FOORDZ	452	conjugation	TPWARDZ			old
+explained	SPHRAEUPBD	SPLAAND	489	conjugation	EBGS/PHRAEUPBD			old
+explaining	SPHRAEUPBG	SPLAANG	489	conjugation	SPHRA*EUPBGS, EBGS/PHRAEUPBG, EBGS/PHRAEUPB/-G			old
 lands	HRAPBDZ	LANDZ	497	plural				old
+charged	KHARPBLGD	CHARJD	498	conjugation	KHARPBLD, KHARPBLGTD			old
+charges	KHARPBLGS	CHARJS	498	conjugation				old
 regards	RARDZ	RARDZ	511	conjugation	RARD/-S, RARD/-Z, RE/TKPWARDZ			old
 rounds	ROUPBDZ	ROUNDZ	519	conjugation	ROUPBLDZ, ROUPBD/-S, ROUPBD/-Z			old
 roads	RAODZ	ROODZ	521	plural	RAOSD, ROEDZ, RAOD/-S, RAOD/-Z			old
 funds	TPUPBDZ	FUNDZ	527	conjugation				old
 kids	KEUDZ	KIDZ	529	plural	KREUDZ, KWEUDZ			old
+measured	PH*ERBD	M*ESHD	532	conjugation	PH-RBD, PHERB/AOURD, PHERB/SHURD, PHERB/KWRURD		MESHD is meshed	old
+measures	PH*ERBS	M*ESHS	532	conjugation	PH-RBS, PHERB/AOURS, PHERB/SHURS, PHEZ/KWRURS, PHERB/KWRURS		MESHS is meshes	old
+measuring	PH*ERBG	M*ERK	532	conjugation	PH-RBG, PHA*ERBG, PHAERPBG, PHA*ERPBG, PHERB/AOURG		MERK is America	old
+teaching	TAOEFPG	TEECHG	539	conjugation	TAOEFBG, TAO*EFPG, TAOEFP/-G			old
 fields	TPAOELDZ	FEELDZ	540	plural				old
 standards	ST-DZ	ST-DZ	547	conjugation	ST-TDZ, STARDZ, STAPBD/ARDZ, STAPB/TKARDZ, STAPBD/ARD/-Z			old
+realized	RAEFLD	RAEFLD	554	conjugation	AEFLD, RAEFLD/-D, RAOELZ/-D, RAEL/AOEUDZ/-D, RAOEL/AOEUZ/-D			old
+demands	TKPHAPBDZ	DMANDZ	570	conjugation	TKPHABDZ, TKE/PHAPBDZ			old
+listening	HREUFPBG	LIFNG	573	conjugation	HR-PBG, HR-PB/-G, HREUS/-PBG, HREUS/EPBG, HREUS/-PB/-G			old
+picked	PEUBGD	PIKD	583	conjugation	PEUGD, PEUBGTD, PEUBG/-D, PEUBG/-DZ, TPEUBG/-D			old
 grounds	TKPWROUPBDZ	GROUNDZ	586	plural				old
+arrives	A/RAOEUFS	A/RIIFS	588	conjugation				old
+arriving	A/RAOEUFG	A/RIIFG	588	conjugation	A/RAOEUF/-G			old
+prepared	PRAOEPD	PREEPD	604	conjugation	PRAO*EPD, PWRAOEPD, PRAOEP/-D, PRE/PAEURD		PRAEPD also works	old
+prepares	PRAOEPS	PREEPS	604	conjugation	PRAOEP/-S		PRAEPS also works	old
+preparing	PRAOEPG	PREEPG	604	conjugation	PRAOEP/-G		PRAEPG also works	old
+compares	KPAEURS	KPAARS	614	conjugation			KPARS also works	old
+factors	TPARBGTS	FARKTS	636	plural	TPARBGS, TPA*RBGS, TPA*RBGTS, TPABG/TORS, TPARBGS/-S			old
+dropping	TKROPG	DROPG	640	conjugation	TROPG, TKROP/-G			old
 evenings	AOEPBGS	EENSHN	679	plural				old
+attempts	A/TEPLTS	A/TEMTS	686	conjugation				old
+averaged	AFRGD	AFRGD	690	conjugation	AFRPBLG/-D			old
+averages	AFRGS	AFRGS	690	conjugation	AFRPBLGS			old
 beds	PWEDZ	BEDZ	694	plural				old
+guys	TKPWAOEUS	GIIS	701	plural	TKPWEUS, TKPAOEUS, TKPWAOUZ, TKPWAOEU/-S, TKPWAOEUS/-S		GIS is actually GIS	old
+images	EUPBLGS	IJS	704	plural	EUPBGS, EUPL/APBLGS			old
+drugs	TKRUGS	DRUGS	721	plural	TRUGS, TKPRUGS, TKRUGSZ, TKHRAUGS			old
+reviewing	RE/SRAOUG	RE/VUUG	730	conjugation	RAOE/SRAOUG, RE/SRAOU/-G			old
+boards	PWAORDZ	BOORDZ	741	plural	PWORDZ, PWAOFRDZ		BORD is bored so BORDZ doesn't make sense	old
+achieved	A/KHAOEFD	A/CHEEFD	746	conjugation	A/KHRAOEFD			old
+achieves	A/KHAOEFS	A/CHEEFS	746	conjugation				old
+achieving	A/KHAOEFG	A/CHEEFG	746	conjugation				old
+floors	TPHRAORS	FLOORS	751	plural	THRAORS			old
 methods	PHO*DZ	MO*DZ	755	plural	PH*ETDZ, PH*ET/ODZ			old
+units	AOUPBTS	UUNTS	780	plural	AOUPTS, AOUPBTSZ, AOUPBT/-S, AOUPB/EUTS, AOUPBLT/-S			old
 cards	KARDZ	KARDZ	781	plural	KARTDZ			old
+interviews	EUPBT/SRAOUS	INT/VUUS	784	plural				old
+degrees	TKEGS	DEGS	798	plural	TEGS, TK*EGS, TKEG/-S		DE/GREES also works	old
 reds	REDZ	REDZ	800	conjugation				old
+treatments	TRAOEPLTS	TREEMTS	811	plural	TRAOEPLTSZ			old
+supplying	SPHRAOEUG	SPLIIG	813	conjugation	SHRAOEUG, SPHRAOEU/-G			old
 attends	A/TEPBDZ	A/TENDZ	819	conjugation				old
 tends	TEPBDZ	TENDZ	842	conjugation	TEPBD/-Z			old
 weekends	WAOEBGDZ	WEEKDZ	933	plural	WAOEBG/-PBDZ, WAOEBG/EPBDZ, WAOEBG/*EPBDZ			old

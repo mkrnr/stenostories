@@ -3,6 +3,7 @@ looks	HRAOBGS	LOOX	75	conjugation	HAOBGS			old
 given	TKPWEUFPB	GIFN	77	conjugation	TKPWEUFP, TKPW*EUFPB, TKPWEUFRPB, TKPWEUF/EPB, TKPW*EUF/-PB			old
 gives	TKPWEUFS	GIFS	77	conjugation	TPEUFS, TKPWUFS, TPWEUFS			old
 giving	TKPWEUFG	GIFG	77	conjugation	TKPWUFG, TPHEUFG, TKPWEUFGS, TKPWEUFPG, TKPWEUF/-G			old
+finds	TPAOEUPBDZ	FIINDZ	81	conjugation			FINDZ also works	old
 things	THEUPBGS	THINGS	87	plural	THEUBGS, THEUPGS, SHEUPBGS, STHEUPBGS, THEUPBLGS			old
 needs	TPHAOEDZ	NEEDZ	90	conjugation	THAOEDZ, 23450EDZ, TPHAOESD, TPHAOETDZ, TPHAOEUDZ			old
 changed	KHAEUPBGD	CHAANGD	113	conjugation	KHAEPBGD, KHAEUPBGSD, KHAEUPG/-D, KHAEUPB/-PBLGD, KHAEUPBG/-D/-D			old
@@ -50,6 +51,7 @@ sends	SEPBDZ	SENDZ	323	conjugation	SEPBD/-Z			old
 tested	TEFTD	TEFTD	332	conjugation	T*EFD			old
 tests	TEFTS	TEFTS	332	conjugation	TEFGTS, TEFLTS, TEFTSZ			old
 minds	PHAOEUPBDZ	MIINDZ	341	conjugation	PHAOEUPBD/-S			old
+values	SRAOULS	VUULS	342	plural	SRAL/-S, SRAOUPLS, SRAL/AOUS			old
 records	RORDZ	RORDZ	344	conjugation	RORD/-S, RORD/-Z, REBG/ORDZ, REBG/KORDZ			old
 minutes	PHEUPBS	MINS	366	conjugation	PHEUBS, PHEUP/-S, PHEUPB/-S, PHEU/TPHUTS, PHEUPBS/TP-PL			old
 foods	TPAODZ	FOODZ	367	plural				old
@@ -86,18 +88,24 @@ teaching	TAOEFPG	TEECHG	539	conjugation	TAOEFBG, TAO*EFPG, TAOEFP/-G			old
 fields	TPAOELDZ	FEELDZ	540	plural				old
 standards	ST-DZ	ST-DZ	547	conjugation	ST-TDZ, STARDZ, STAPBD/ARDZ, STAPB/TKARDZ, STAPBD/ARD/-Z			old
 realized	RAEFLD	RAEFLD	554	conjugation	AEFLD, RAEFLD/-D, RAOELZ/-D, RAEL/AOEUDZ/-D, RAOEL/AOEUZ/-D			old
+cultures	KAOUFPS	KUUCHS	568	plural	KAO*UFPS, KUL/KHURS, KUL/TAOURS			old
 demands	TKPHAPBDZ	DMANDZ	570	conjugation	TKPHABDZ, TKE/PHAPBDZ			old
 listening	HREUFPBG	LIFNG	573	conjugation	HR-PBG, HR-PB/-G, HREUS/-PBG, HREUS/EPBG, HREUS/-PB/-G			old
 picked	PEUBGD	PIKD	583	conjugation	PEUGD, PEUBGTD, PEUBG/-D, PEUBG/-DZ, TPEUBG/-D			old
 grounds	TKPWROUPBDZ	GROUNDZ	586	plural				old
 arrives	A/RAOEUFS	A/RIIFS	588	conjugation				old
 arriving	A/RAOEUFG	A/RIIFG	588	conjugation	A/RAOEUF/-G			old
+wives	WAOEUFS	WIIFS	602	plural	WEUFS, WEUF/-S, WAOEUF/-S, WAO*EUF/-S, WAOEUF/H-FS			old
 prepared	PRAOEPD	PREEPD	604	conjugation	PRAO*EPD, PWRAOEPD, PRAOEP/-D, PRE/PAEURD		PRAEPD also works	old
 prepares	PRAOEPS	PREEPS	604	conjugation	PRAOEP/-S		PRAEPS also works	old
 preparing	PRAOEPG	PREEPG	604	conjugation	PRAOEP/-G		PRAEPG also works	old
+applied	A/PHRAOEUD	A/PLIID	611	conjugation	WA/PHRAOEU/-D			old
+applies	A/PHRAOEUS	A/PLIIS	611	conjugation				old
+applying	A/PHRAOEUG	A/PLIIG	611	conjugation	A/PHRAOEU/-G			old
 compares	KPAEURS	KPAARS	614	conjugation			KPARS also works	old
 factors	TPARBGTS	FARKTS	636	plural	TPARBGS, TPA*RBGS, TPA*RBGTS, TPABG/TORS, TPARBGS/-S			old
 dropping	TKROPG	DROPG	640	conjugation	TROPG, TKROP/-G			old
+structures	STRAOUFPS	STRUUCHS	667	plural	STRUBG/KHURS, STRUBG/TAOURS, STRUBGT/KHURS, STRUBG/TAOURBGS, STRAOUBG/TAOUR/-S			old
 evenings	AOEPBGS	EENSHN	679	plural				old
 attempts	A/TEPLTS	A/TEMTS	686	conjugation				old
 averaged	AFRGD	AFRGD	690	conjugation	AFRPBLG/-D			old
@@ -108,9 +116,11 @@ images	EUPBLGS	IJS	704	plural	EUPBGS, EUPL/APBLGS			old
 drugs	TKRUGS	DRUGS	721	plural	TRUGS, TKPRUGS, TKRUGSZ, TKHRAUGS			old
 reviewing	RE/SRAOUG	RE/VUUG	730	conjugation	RAOE/SRAOUG, RE/SRAOU/-G			old
 boards	PWAORDZ	BOORDZ	741	plural	PWORDZ, PWAOFRDZ		BORD is bored so BORDZ doesn't make sense	old
+holidays	HOL/TKAEUS	HOL/DAAS	742	plural				old
 achieved	A/KHAOEFD	A/CHEEFD	746	conjugation	A/KHRAOEFD			old
 achieves	A/KHAOEFS	A/CHEEFS	746	conjugation				old
 achieving	A/KHAOEFG	A/CHEEFG	746	conjugation				old
+cents	KREPBTS	CENTS	749	plural	S-TS, KREPBT/-S			old
 floors	TPHRAORS	FLOORS	751	plural	THRAORS			old
 methods	PHO*DZ	MO*DZ	755	plural	PH*ETDZ, PH*ET/ODZ			old
 units	AOUPBTS	UUNTS	780	plural	AOUPTS, AOUPBTSZ, AOUPBT/-S, AOUPB/EUTS, AOUPBLT/-S			old
@@ -118,14 +128,21 @@ cards	KARDZ	KARDZ	781	plural	KARTDZ			old
 interviews	EUPBT/SRAOUS	INT/VUUS	784	plural				old
 degrees	TKEGS	DEGS	798	plural	TEGS, TK*EGS, TKEG/-S		DE/GREES also works	old
 reds	REDZ	REDZ	800	conjugation				old
+movements	PHOFPLTS	MOFMTS	803	plural	PHOFPLTSZ, PHOFPLT/-S		MOFMS also works	old
+treated	TRAOETD	TREETD	804	conjugation	TRAETD, TRAOET/#-D, TRAOET/-D/-D			old
 treatments	TRAOEPLTS	TREEMTS	811	plural	TRAOEPLTSZ			old
 supplying	SPHRAOEUG	SPLIIG	813	conjugation	SHRAOEUG, SPHRAOEU/-G			old
 attends	A/TEPBDZ	A/TENDZ	819	conjugation				old
+strategies	STRAPBLGS	STRAJS	838	plural	STRAPBGS, STRAPBLS, STRAPLGS, STAPBLG/-S, STRAOEPBLGS			old
 tends	TEPBDZ	TENDZ	842	conjugation	TEPBD/-Z			old
+avoids	A/SROEUDZ	A/VOIDZ	850	conjugation				old
+tasks	TAFBGS	TAFKS	853	plural	TAFBS, TAS/*BGS, TAS/-BGS, TAS/*BG/-S			old
+goals	TKPWOELS	GOELS	855	plural	TKOELS			old
 weekends	WAOEBGDZ	WEEKDZ	933	plural	WAOEBG/-PBDZ, WAOEBG/EPBDZ, WAOEBG/*EPBDZ			old
 extends	EBGS/TEPBDZ	EX/TENDZ	949	conjugation				old
 winds	WEUPBDZ	WINDZ	1011	conjugation	WAOEUPBDZ			old
 bloods	PWHRAODZ	BLOODZ	1016	plural				old
+elements	HREPLTS	LEMTS	1028	plural	HR-PLTS, EL/-PLTS			old
 bands	PWAPBDZ	BANDZ	1085	plural				old
 speeds	SPAOEDZ	SPEEDZ	1104	conjugation	SPAOED/-Z			old
 intends	SPWEPBDZ	SBENDZ	1112	conjugation	EUPB/TEPBDZ			old

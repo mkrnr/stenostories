@@ -7,7 +7,7 @@ been	PW-PB	B-N	2	conjugation	PW-B, PW-FPB			brief
 is	S	S	2	conjugation				brief
 isn't	S-PBT	S-NT	2	conjugation	S-PT, S-PBLT			brief
 was	WA	WA	2	conjugation	WAS, WAZ, WUZ, KWAS, WAGS			brief
-wasn't	WAEPBT	WAENT	2	conjugation	WAEPT, WUPBT, WAEPBS, WAEPBLT, WASZ/-PBTD		Similar to was (WA) like do (DO) to don't (DOENT).	brief leech
+wasn't	WAEPBT	WAENT	2	conjugation	WAEPT, WUPBT, WAEPBS, WAEPBLT, WASZ/-PBTD		Similar to was (WA) like do (DO) to don't (DOENT).	brief
 were	WR	WR	2	conjugation	-RP			brief
 weren't	WR-PBT	WR-NT	2	conjugation	W-RPBT, WREPBT, WR-PBLT, WR-RPBLTS		WR is were	brief
 and	STK	SD	3	root	ABD, APD, SKP,-PBD, 57BD			brief
@@ -17,7 +17,7 @@ a	AEU	AA	6	root	A/AEU, A*/SP-S, AEU/AEU			brief
 in	TPH	N	7	root		The heart beats in the left half of your body		brief
 have	SR	V	8	root	SKR			brief
 had	H	H	8	conjugation	HAD			brief
-hadn't	H-PBT	H-NT	8	conjugation	HAPBT			leech
+hadn't	H-PBT	H-NT	8	conjugation	HAPBT			
 has	HAS	HAS	8	conjugation	HAZ, HAGS, HASZ, SHAS	Has has no brief.		
 hasn't	HAEPBT	HAENT	8	conjugation				brief
 it	T	T	9	root	EUT			brief
@@ -80,7 +80,7 @@ making	PHAEUG	MAAG	48	conjugation	PHAEUB/-G, PHAEUBG/-G
 time	TAOEUPL	TIIM	49	root	TPAOEUPL			
 see	SAOE	SEE	50	root				
 saw	SAU	SAU	50	conjugation				
-sees	SAO*ES	S*EES	50	conjugation	SAO*EZ	Living in a big city, she's finally sees the stars again while visiting her parents in the countryside.		
+sees	SAO*ES	S*EES	50	conjugation	SAO*EZ	Living in a big city, she's finally sees the stars again while visiting her parents in the countryside.	swapped SEES with cease	
 what	WHA	WHA	51	root	KWHA, PWHA, WHRA, WHA/WHA*, WHAO/WHA*	say WHAHAHAHA...		brief
 up	UP	UP	52	root	OUP			
 some	SOPL	SOM	53	root	SOFPL			
@@ -115,7 +115,7 @@ now	TPHOU	NOU	70	root	TPHO*U
 then	THEPB	THEN	71	root	THEB, 24E7B, THAEPB, THEPBL, TKHEPB			
 also	HR-S	L-S	72	root	ALS, HR*S, AL/SO, AL/SOE			
 into	TPHAO	NOO	73	root	SPWAO, TPHAO*, TPHRAO, EUPB/TO			brief
-only	OPBL	ONL	74	root	OEPBL, HOEPBL			brief leech
+only	OPBL	ONL	74	root	OEPBL, HOEPBL			brief
 look	HRAOBG	LOOK	75	root	HRAOPBG			
 looking	HRAOG	LOOG	75	conjugation	WHRAOBG, HRAOBG/-G, HRAOBG/-BG	The log file that Ive been looking through is so long that I'm already calling it a LOOG file.		
 want	WAPBT	WANT	76	root	WABT, WAPT, WABLT, WAPBLT			
@@ -128,10 +128,9 @@ newest	TPHAOUFT	NUUFT	79	superlative	TPHAOU/EFT		NUFT also works	missing
 way	WAEU	WAA	80	root				
 find	TPAOEUPBD	FIIND	81	root	TPEUPBD, TPAOEUPD, 2350EU7BD, TPWAOEUPBD			
 finding	TPAOEUPBGD	FIINGD	81	conjugation	TPAOEPBGD, TPAOEUBD/-G		FINGD also works	missing
-finds	TPAOEUPBDZ	FIINDZ	81	conjugation			FINDZ also works	missing
-over	OEFR	OEFR	82	root	OEF, A*UFR	A couple celebrates the fact that their DEBT (OE) is over by . . . eating ramen noodles. They don't want to go back into debt.	OEF not in Plover dict	non-existing
+over	OEFR	OEFR	82	root	OEF, A*UFR	A couple celebrates the fact that their DEBT (OE) is over by . . . eating ramen noodles. They don't want to go back into debt.	OEF is actualy oaf; OFR is offer	
 any	TPHEU	NI	83	root	TKPHEU, TPH*EU	"Remember Monty Python's knights who say ""TPHEU"" (NI)? They say ""NI"" in response to any statement, no matter what it is."		brief
-after	AF	AF	84	root	AFT	After a sleepless night I'm tired AF.	AFR is the after- prefix	brief leech
+after	AF	AF	84	root	AFT	After a sleepless night I'm tired AF.	AFR is the after- prefix	brief
 day	TKAEU	DAA	85	root	TAEU			
 where	W-R	W-R	86	root	W*R, W-F, WHER	"If you have trouble remembering that WR maps to ""were"" and W-R maps to ""where,"" here's a story for you: originally, W and R WR (were) right next to each other. But then the R wandered off to the other side of the board to form W-R (where), causing the W to say: ""where are you??"""		brief
 thing	THEUPBG	THING	87	root	THEPBG, THEUPG, THAEUPBG, THAOEUPBG			
@@ -181,7 +180,7 @@ feel	TPAOEL	FEEL	117	root
 felt	TPELT	FELT	117	conjugation				
 too	TAO	TOO	118	root				
 still	STEUL	STIL	119	root	STUL, STKEUL, STPEUL			brief
-problem	PRO*B	PRO*B	120	root	PRO*FB, TPRO*B, PROB/HREPL, PRO/PWHREPL	I have a problem with remembering when to include an asterisk.		leech
+problem	PRO*B	PRO*B	120	root	PRO*FB, TPRO*B, PROB/HREPL, PRO/PWHREPL	I have a problem with remembering when to include an asterisk.		
 write	WREU	WRI	121	root	WRAOEUT			brief
 wrote	WRO	WRO	121	conjugation	WROET	The world record owner (WRO) wrote a letter non stop for seven days straight.		brief
 same	SAEUPL	SAAM	122	root	SAEUPLT, SAOEUPL			
@@ -257,7 +256,7 @@ reporting	RORPG	RORPG	166	conjugation	RORP/-G		ORPG also works	brief missing
 reports	RORPS	RORPS	166	conjugation	RORP/-S		ORPS also works	brief missing
 group	TKPWRAOUP	GRUUP	167	root	TKPWRAUP, TKPWROUP, KWRAOUP, TPWRAOUP, TKPWHRAOUP			
 case	KAEUS	KAAS	168	root	KWAEUS			
-cases	KAEUSZ	KAASZ	168	plural	KA*EUFS		KAEUFS is case of	
+cases	KAEUSZ	KAASZ	168	plural	KA*EUFS		KAAFS is case of	
 woman	WOPL	WOM	169	root	W078, WOPL/PHAPB			brief
 women	WEUPL	WIM	169	plural	WEUPL/-PB	"A dad tells his son: ""Don't just date women on a WEUPL (whim)."" Take your time and find people whom you're really interested in."		brief
 around	ARPBD	ARND	170	root	A/ROUBD, A/ROUPD, A/ROUPBD, A/ROUPBT, A/HROUPBD	ARND there too many cars around on the streets?		brief
@@ -274,7 +273,7 @@ kept	KEPT	KEPT	177	conjugation	KEPTD
 hear	HAER	HAER	178	root		If you get hit in the head so hard that you can't hear, go to an ACCIDENT & EMERGENCY DEPARTMENT (AE) immediately!		
 heard	HERD	HERD	178	conjugation	HAERD, HAER/-D, HAOERDZ			
 system	S-PL	S-M	179	root	ST-PL, ST-FPL, S*EUS/EPL, SEUS/TEPL	SM (Super Metroid) was a classic game for the SNES system.		brief
-every	EF	EF	180	root	EFR, EF/REU, *EF/REU			brief leech
+every	EF	EF	180	root	EFR, EF/REU, *EF/REU			brief
 question	KWE	QE	181	root	KPWE, KWEGS, KW*EGS			brief
 during	TKURG	DURG	182	root	TKUR, TKAOUR, TKAOURG, TKURPBG, TAOURPBG			
 always	AULS	AULS	183	root	5U8S, AULZ, AULGS, AL/WAEU/-S			brief
@@ -288,13 +287,13 @@ smaller	SPHAURL	SMAURL	186	comparative	SPHAUL/*ER, SPHRAUL/*ER		SMARL also works
 smallest	SPHAUL/EFT	SMAUL/EFT	186	superlative	SPHRAUL/EFT			
 study	STAO*UD	ST*UUD	187	root	STO*UD, STU/TKEU, STUD/TKEU, STUD/KWREU, STUD/SKWREU			
 studied	STAO*UTD/-D	ST*UUD/-D	187	conjugation	STUD/EUD			
-studies	STAO*UDZ	ST*UUDZ	187	conjugation	STAO*USD, STUD/EUS, STAO*EUDZ, STAO*UTDZ, STAO*UTSDZ		STUUDZ is steweds	
+studies	STAO*UDZ	ST*UUDZ	187	conjugation	STAO*USD, STUD/EUS, STAO*EUDZ, STAO*UTDZ, STAO*UTSDZ		STUUDZ is steweds; ST*UUD is study	
 studying	STAO*UGD	ST*UUGD	187	conjugation	STUD/EUG, STUD/KWREU/-G			
 follow	TPOL	FOL	188	root	TPOL/HROE	If you have a tendency to FOL (fall) on hikes, the other hikers should follow you--since that way they'll notice if you took a spill, and won't leave you behind.		brief
 follower	TPOL/*ER	FOL/*ER	188	comparative				
-begin	TKPWEUPB	GIN	189	root	STKPEUPB, STKWEUPB, STPWEUPB, STKPWEUPB, STKPW*EUPB			
+begin	TKPWEUPB	GIN	189	root	STKPEUPB, STKWEUPB, STPWEUPB, STKPWEUPB, STKPW*EUPB	Is there a better way to begin the day than with a nice GIN and tonic?		
 began	TKPWAPB	GAN	189	conjugation	STKPWAPB, PWE/TKPWAPB			brief
-begins	STKPWEUPBS	ZINS	189	conjugation			GINS should also work?	
+begins	STKPWEUPBS	ZINS	189	conjugation			GINS also works	missing
 begun	TKPWUPB	GUN	189	conjugation	STKPWUPB, PWE/TKPWUPB			
 important	PORPB	PORN	190	root	PORPBT, EUPL/POR/TAPBT, EUPL/PORT/TAPBT	Some people would argue that PORN is important for a functioning society. Mostly men of course...		brief
 since	SEUPBS	SINS	191	root				
@@ -335,7 +334,7 @@ businesses	PWEUS/-S	BIS/-S	211	plural			BISZ also works.	brief missing
 without	WOUT	WOUT	212	root	W/OUT, WAOUT, WO*UT, W*EUT/O*UT			brief
 information	TPH-FGS	N-FSHN	213	root	TP-FGS, 234-6GS, TPH-FBGS, TPH-FRGS, TPH-F/PHAEUGS			brief
 open	OEP	OEP	214	root	O/PEPB, OEP/-PB			brief
-order	ORD	ORD	215	root	0RD, ORD/ER, O*R/TKER	The Carmelites are a Catholic religious order, and one of their provinces has a spiritual center in Darien, Illinois--not far from ORD (Chicago O'Hare Airport).	"OERD is ""ordinary"""	brief leech
+order	ORD	ORD	215	root	0RD, ORD/ER, O*R/TKER	The Carmelites are a Catholic religious order, and one of their provinces has a spiritual center in Darien, Illinois--not far from ORD (Chicago O'Hare Airport).	"OERD is ""ordinary"""	brief
 orders	ORDZ	ORDZ	215	plural	ORD/-S, ORD/ERS			
 government	TKPWOFT	GOFT	216	root	TKPW-FT, KPWOFPLT, KWROFPLT, TKPOFPLT, TKPWO*FT			brief
 word	WORD	WORD	217	root	W0RD, WAORD			
@@ -347,7 +346,7 @@ pays	PAEUZ	PAAZ	220	conjugation	PAEUSZ
 build	PWEULD	BILD	221	root	PEULD, PWHEULD			
 building	PWEULGD	BILGD	221	conjugation	PW-LG, PWHR-G, 3WEU8D/-G, PWEULD/-G, PWEULT/-G	The computer science building would be a great place to throw a LAN party, since the B (basement) level has a room full of LG monitors.		brief
 built	PWEULT	BILT	221	conjugation	PEULT, PWEULTD			
-hold	HOELD	HOELD	222	root	HOLD		HOELD works best with the endings	
+hold	HOLD	HOLD	222	root	HOELD			
 held	HELD	HELD	222	conjugation				
 holding	HOELGD	HOELGD	222	conjugation	HOELD/-G			
 service	S-FS	S-FS	223	root	S*FS, S-FRS, S-FSZ, SEFRB/EUS, SER/SREUS	Georgetown's SFS (School of Foreign Service) graduates a lot of diplomats.		brief
@@ -369,7 +368,7 @@ resulted	RULTD	RULTD	233	conjugation	RULT/-D		RULD also works.	missing
 resulting	RULT/-G	RULT/-G	233	conjugation			RULG also works.	missing
 results	RULTS	RULTS	233	conjugation	RULGTS, RULTSZ, REULGTS, RULGTSZ, RULT/-S		RULS also works.	missing
 away	A/WAEU	A/WAA	234	root	A/WEU			
-example	KP-PL	X-M	235	root	KP-L, KPW-PL, KPAFRPL, KPAFRP/-L, KPAPL/P-L			brief
+example	KP-PL	X-PL	235	root	KP-L, KPW-PL, KPAFRPL, KPAFRP/-L, KPAPL/P-L			brief
 happen	HAP	HAP	236	root	HAP/-PB			brief
 offer	OFR	OFR	237	root				
 young	KWRUPBG	YUNG	238	root	KWROUPBG			
@@ -406,7 +405,7 @@ costing	KOS/-G	KOS/-G	252	conjugation	KOFT/-G		KOFGT also works.	missing
 less	HRES	LES	253	root	HRESZ			
 room	RAOPL	ROOM	254	root				
 until	TPH-L	N-L	255	root	UPB/TEUL	Until someone told me that NL Texas Hold'em Poker means that you can bet whatever you want, I had no idea what was going on.		brief
-reason	R-PB	R-N	256	root	R-P, RE/SOPB	The reason why a R-N (random number) generator is hard to implement is that computers are deterministic.		brief leech
+reason	R-PB	R-N	256	root	R-P, RE/SOPB	The reason why a R-N (random number) generator is hard to implement is that computers are deterministic.		brief
 form	TPORPL	FORM	257	root	PHORPL			
 spend	SPEPBD	SPEND	258	root	SPEBD, SPEPBLD			
 spending	SPEPBG	SPENG	258	conjugation	SPEPBGD			
@@ -430,7 +429,7 @@ worse	WORS	WORS	268	comparative
 worst	WOFRT	WOFRT	268	superlative	WO*RS, WOFRTS			brief
 city	STEU	STI	269	root	SEUT/TEU, SEUT/KWREU			brief
 night	TPHAOEUT	NIIT	270	root	TPHAOEUGT	A person wonders if staying up all night to play S-L (Second Life) is a sign of an internet gaming addiction.		brief
-able	ABL	ABL	271	root	AEUBL, A/AEUBL			brief
+able	AEUBL	AABL	271	root	ABL, A/AEUBL			brief
 abler	ABL/ER	ABL/ER	271	comparative	AEUBL/ER, AEUB/HRER			
 ablest	ABL/*ES	ABL/*ES	271	superlative	AEUBL/*ES			
 support	SPOR	SPOR	272	root	SPO*RT, SPOERT, SU/PORT, SUP/ORT, SUP/PORT			brief
@@ -441,7 +440,7 @@ presenting	PREPBGT	PRENGT	275	conjugation	PREPBG, PREPBT/-G
 side	SAOEUD	SIID	276	root	SOEUD			
 sides	SAOEUDZ	SIIDZ	276	plural	SAOEUSD, SAOEUD/-Z			
 quite	KWAOEUT	QIIT	277	root	KWAOEULT			
-although	HR*T	L*T	278	root	AL/THOE, AUL/THOE	"The word ""although"" conveys a qualification, just like an asterisk does. So it makes sense that an asterisk would be included in this outline."		brief leech
+although	HR*T	L*T	278	root	AL/THOE, AUL/THOE	"The word ""although"" conveys a qualification, just like an asterisk does. So it makes sense that an asterisk would be included in this outline."		brief
 sure	SHUR	SHUR	279	root	SHAOUR, SHAO*UR, SHRAOUR			
 surer	SHUR/ER	SHUR/ER	279	comparative	SHAOUR/ER			
 surest	SHUR/*ES	SHUR/*ES	279	superlative	SHAOUR/*ES			
@@ -489,7 +488,7 @@ losing	HRAOUFG	LUUFG	305	conjugation	HRAOUGS, HRAOUS/-G, HRAOUZ/-G
 lost	HRO*S	LO*S	305	conjugation		The T got lost and was replaced by an *.		
 story	STOER	STOER	306	root	STO/REU, STOR/REU, STOER/REU, STOR/KWREU, STOER/KWREU			brief
 almost	HR-PL	L-M	307	root	AL/PHO*ES			brief
-continue	T-PB	T-N	308	root	KOPB/TEUPB/KWRAOU	I think I could continue for months if I drank only T (tea) and ate only Nutella.		brief leech
+continue	T-PB	T-N	308	root	KOPB/TEUPB/KWRAOU	I think I could continue for months if I drank only T (tea) and ate only Nutella.		brief
 stand	STAPBD	STAND	309	root	STAPD			
 standing	STAPBGD	STANGD	309	conjugation	STAPBG			
 stood	STAOD	STOOD	309	conjugation				
@@ -504,7 +503,7 @@ effects	TPEBGZ	FEKZ	315	plural	TPEBGTS, TPEBLGTS, TPEBGTS/-S
 sort	SORT	SORT	316	root	SO*RT, SORBT, SORLT			
 sorted	SORT/-D	SORT/-D	316	conjugation			SORTD also works.	missing
 sorting	SORT/-G	SORT/-G	316	conjugation			SORGT also works.	missing
-ever	-FR	-FR	317	root		Did you ever write a word that ends with -FR? I can't think of any.	EF is mapped to every; FR to from.	brief leech
+ever	-FR	-FR	317	root		Did you ever write a word that ends with -FR? I can't think of any.	EF is mapped to every; FR to from.	brief
 anything	TPHEUG	NIG	318	root	TPHUG, TPHEULG, TPHEU/TH*EUPBG			brief
 cause	KAUS	KAUS	319	root	KAUZ, TKAUS	catholic		
 caused	KAUFD	KAUFD	319	conjugation				
@@ -513,7 +512,7 @@ causing	KAUFG	KAUFG	319	conjugation	KAUD/-G		Too much smoke in the air is causin
 fall	TPAL	FAL	320	root	TPAUL	The fall is a great time to go APPLE (A) picking with friends, and then throw the apples at people you don't like. (Just kidding.)		brief
 fallen	TPAL/-PB	FAL/-N	320	conjugation	TPAUL/-PB, TPAUL/EPB, TPAUL/*EPB, TPAUL/HREPB		FAUNL also works. (FANL not mapped).	missing
 falling	TPAULG	FAULG	320	conjugation	TPAUL/-G		FALG also works.	missing
-falls	TPAULZ	FAULZ	320	conjugation	TPA*ULS		FAULS also works.	missing
+falls	TPAULZ	FAULZ	320	conjugation	TPA*ULS		FALZ also works; FALS is false	missing
 fell	TPEL	FEL	320	conjugation				
 deal	TKAOEL	DEEL	321	root	STKAOEL		DAEL is dale	
 dealt	TKELT	DELT	321	conjugation				
@@ -524,7 +523,7 @@ sent	SEPBT	SENT	323	conjugation
 allow	HROU	LOU	324	root	HRO*U, A/HROU, A/HRAOU, AL/HROU	My mom wouldn't allow me to bring the temperature down too LOU (low) in the summer, since that would increase our AC bill.		brief
 allowed	HRO*UD	LO*UD	324	conjugation	A/HRO*UD, AL/HROUD	It's allowed to be LOUD but only until the *s (stars) are shining.		
 allowing	HRO*UG	LO*UG	324	conjugation	A/HROUG, HRO*UPBG, A/HROUPBG			
-allows	HRO*US	LO*US	324	conjugation	A/HROUS, A/HRO*US			
+allows	HRO*US	LO*US	324	conjugation	A/HROUS, A/HRO*US		swapped LOUS with louse	swapped
 soon	SAOPB	SOON	325	root	SHAOPB			
 watch	WAFP	WACH	326	root	WAUFP			
 watching	WAFBG	WACHG	326	conjugation	WAFPG, WAFP/-G			
@@ -560,7 +559,6 @@ mind	PHAOEUPBD	MIIND	341	root	PHAEUPBD, PHOEUPBD
 minded	PHAOEUPBD/-D	MIIND/-D	341	conjugation				
 minding	PHAOEUPBD/-G	MIIND/-G	341	conjugation			MIINGD also works	missing
 value	SRAOUL	VUUL	342	root	SRAL/U, KAL/AOU, SRAL/OU, SRAO*UL, SR-L/AOU	"A storekeeper admonishes you: ""you would be a VUUL (fool) not to see value in this product!"""		brief
-values	SRAOULS	VUULS	342	plural	SRAL/-S, SRAOUPLS, SRAL/AOUS			
 office	OFS	OFS	343	root	AUFS, AUF/EUS, AU/TPEUS, AUF/TPEUS			brief
 offices	OFS/-S	OFS/-S	343	plural			OFSZ also works	missing
 record	RORD	RORD	344	root	REBG/ORD, REBG/KORD	I definitely have to ReORDer my record collection.		brief
@@ -624,11 +622,11 @@ won	WOPB	WON	377	conjugation
 color	KHROR	KLOR	378	root	KROR, KO/HROR, KOL/O*R			brief
 involve	SROF	VOF	379	root	SRO*F, SROFL, EUPB/SROFL, EUPB/SROL/*F	When you involve the opinion of a dog, the first thing you'll hear is a VOF.		brief
 reach	RAOEFP	REECH	380	root				
-social	SOERBL	SOESHL	381	root	SOERPBL			
+social	SOERBL	SOESHL	381	root	SOERPBL		SOSHL also works	missing
 period	PAOERD	PEERD	382	root	PAOERBD, PER/KWROD, PAOER/KWROD	People PAOERD (peered) into other periods, from the Victorian to the Mesozoic, using the researcher's time machine.		brief
 across	A/KROS	A/KROS	383	root	ABG/ROS			
 note	TPHOET	NOET	384	root				
-noting	TPHO*EGT	NO*EGT	384	conjugation			NOEGT also works	leech missing
+noting	TPHO*EGT	NO*EGT	384	conjugation			NOEGT also works; NOET is note	missing
 history	HEUFRT	HIFRT	385	root	HEUFT/R, HOEUFRT, H-FT/REU, HEUF/REU, HEUFT/RU	The history of WWII includes a lot of occassions when countries HIT FR (France) with bombs.		brief
 histories	HOEUFRTS	HOIFRTS	385	plural	HEUFT/REUS		HIFRTS also works	missing
 create	KRAET	KRAET	386	root	KRAOET, KRAOELT, KRAOE/AEUT, KRAOE/KWRAEUT			
@@ -637,7 +635,7 @@ creates	KRAOETS	KREETS	386	conjugation	KRAOETSZ		KRAETS also works	missing
 creating	KRAOEGT	KREEGT	386	conjugation	KRAOET/-G		KRAEGT also works	missing
 drive	TKRAOEUF	DRIIF	387	root	KRAOEUF		DRIF also works	missing
 driven	TKREUFPB	DRIFN	387	conjugation	TKPREUFPB, TKR*EUFPB, TKREUF/EPB, TKR*EUF/-PB, TKREUF/*EPB			
-drove	TKROEF	DROEF	387	conjugation	TKRO*EF			
+drove	TKROEF	DROEF	387	conjugation	TKRO*EF		added DROF which was trough	added
 along	A/HROPBG	A/LONG	388	root	A/HROPG, O/HROPBG			
 type	TAOEUP	TIIP	389	root				
 sound	SOUPBD	SOUND	390	root				
@@ -651,7 +649,7 @@ political	PHREU/K-L	PLI/K-L	394	root	PHREUS/K-L, PHREUT/K-L, PHREUT/KAL, PO/HREU
 free	TPRAOE	FREE	395	root				brief
 frees	TPRAOE/-S	FREE/-S	395	conjugation			FREES also works	missing
 freest	TPRAOE/*ES	FREE/*ES	395	superlative				
-receive	SAOEF	SEEF	396	root	RE/SAOEF, RE/SAO*EF	When a completed pass is challenged in a football game, the referee looks at the video to SEEF (see if) the receiver did indeed receive the ball, or if he dropped it.		brief leech
+receive	SAOEF	SEEF	396	root	RE/SAOEF, RE/SAO*EF	When a completed pass is challenged in a football game, the referee looks at the video to SEEF (see if) the receiver did indeed receive the ball, or if he dropped it.		brief
 moment	PHOEPLT	MOEMT	397	root	PHOE/PHEPBT	"""It'll just take a moment for you to MOE (mow) the grass!"" A wife says to her husband, who knows that it will actually take much longer than that."		brief
 sale	SAEL	SAEL	398	root				
 policy	POEULS	POILS	399	root	POL/SEU, POL/SEU/SEU	A new government policy promotes swallowing five P(i)LS (pills) of fish OIL a day for improved cognitive function. But is there any evidence to support that?		brief
@@ -716,7 +714,7 @@ film	TPEUPL	FIM	433	root	TP*EUP, TP*EUPL, TPEUL/*PL, TPEUL/-PL
 morning	PHORPBG	MORNG	434	root	PHORPG, PHORPB/-G			
 war	WAR	WAR	435	root				
 account	K-T	K-T	436	root	A/K-T, A/KOUPBT, ABG/KOUPBT	"""Konto"" is German for ""account,"" and that word may help you remember that this brief is K-T."		brief
-accounting	K-GT	K-GT	436	conjugation	K-T/-G			
+accounting	K-GT	K-GT	436	conjugation	K-T/-G		K-T is account	
 shop	SHOP	SHOP	437	root				
 major	PHAEUPBLG	MAAJ	438	root	PHOEUPBLG, PHAPBLG/O*R, PHAEU/SKWROR, PHAEUPBG/O*R, PHAEUPBL/O*R			brief
 someone	SWUPB	SWUN	439	root	SPH-PB, SPWUPB, SPH/WUPB, SOPL/WOPB		S plus WUN (one)	brief
@@ -747,7 +745,7 @@ bear	PWAER	BAER	455	root
 borne	PWOERPB	BOERN	455	conjugation	PWO*RPB, PWO*FRPB			
 cut	KUT	KUT	456	root				
 cutting	KUGT	KUGT	456	conjugation	KUT/-G			
-describe	SKREU<br />	SKRII	457	root	SKRAOEU, SKREUB, TKRAOEUB, STKRAOEUB, TKES/KRAOEUB		SKRI works best with the endings	brief
+describe	SKREU	SKRI	457	root	SKRAOEU, SKREUB, TKRAOEUB, STKRAOEUB, TKES/KRAOEUB		SKRI works best with the endings	brief
 described	SKRAOEUD	SKRIID	457	conjugation	SKREUD, KREUFD			
 himself	HEUPLS	HIMS	458	root	H*EUPLS, HEUPL/SEF, HEUFL/SEFL, HEUPL/SEFL, HEUPL/SEFPL			brief
 available	SRAEUBL	VAABL	459	root	SHRAEUBL, SRAEUBLG, A/SRAEUBL, A/SRAEUL/ABL			brief
@@ -757,7 +755,7 @@ stronger	STRORPBG	STRORNG	461	comparative	STROPBG/*ER
 strongest	STROPBG/EFT	STRONG/EFT	461	superlative				
 rise	RAOEUZ	RIIZ	462	root			RIIS is rice	
 risen	REUFPB	RIFN	462	conjugation	REUS/EPB, REUZ/-PB, REUS/*EPB, REUZ/*EPB, REUS/*EUPB			
-rises	RAOEUZ/-Z	RIIZ/-Z	462	conjugation			RIIS is rice	leech
+rises	RAOEUZ/-Z	RIIZ/-Z	462	conjugation			RIIS is rice	
 rising	RAOEUFG	RIIFG	462	conjugation	RAO*EUFG, RAOEUZ/-G		RIIGS is righteous	
 rose	ROEZ	ROEZ	462	conjugation	ROES		ROES is actually rows	wrong
 girl	TKPWEURL	GIRL	463	root				
@@ -781,7 +779,7 @@ actions	-BGSZ	-KSHNZ	474	plural
 health	H*ELT	H*ELT	475	root	HR*ELT		added HELT	added
 eat	AOET	EET	476	root				
 ate	AEUT	AAT	476	conjugation				
-eaten	AOET/EPB	EET/EN	476	conjugation	AOET/*EPB		EEN is even, EENT is event, EET/N is eat an	leech
+eaten	AOET/EPB	EET/EN	476	conjugation	AOET/*EPB		EEN is even, EENT is event, EET/N is eat an	
 eating	AOEGT	EEGT	476	conjugation	AOET/-G, AEULGT/-G			
 step	STEP	STEP	477	root				
 true	TRAOU	TRUU	478	root				
@@ -801,8 +799,8 @@ model	PHOLD	MOLD	485	root	340*8D, PHO*LD, PHOLTD, PHO*ELD, PHOD/*L	You keep an a
 models	PHO*LDZ	MO*LDZ	485	plural	PHO*PLDZ, PHOD/ELS, PHOD/*EL/-S		MOLDZ is molds; MOLD/-S also works	missing
 raise	RAEUZ	RAAZ	486	root			RAAS is race	
 raised	RA*EUFD	RAA*FD	486	conjugation		The rocket raised up to our star, the sun. Not sure if that's a reasonable destination but that's not my call.	RAADZ is raids; RAAFD added as raved; RAAZ/-D also works	missing
-raises	RA*EUFS	RAA*FS	486	conjugation			RAAFS is raves; RAAZ/-S and RAAZ/-Z also work	missing
-raising	RA*EUFG	RA*EUFG	486	conjugation	RAEUZ/-G		RAAFG is raving	
+raises	RA*EUFS	RAA*FS	486	conjugation			RAAFS is raves; added FAAFZ; RAAZ/-S and RAAZ/-Z also work	added
+raising	RA*EUFG	RAA*FG	486	conjugation	RAEUZ/-G		RAAFG is raving	
 customer	KUFR	KUFR	487	root	KUFRT, K*UFRT, KUF/PHER, KUS/PHER, K*US/PHER	During a hot summer day, if your store doesn't have some sort of cover (KUFR) on it, like a roof or a tent, you're not going to get many customers. You would especially want a cover if you're selling a fragile or valuable product, like URANIUM (U).		brief
 front	TPROPBT	FRONT	488	root	TPROPT, TPHROPBT			
 fronted	TPROPBT/-D	FRONT/-D	488	conjugation			FRONTD also works	missing
@@ -894,7 +892,7 @@ security	SKURT	SKURT	541	root	SKAOURT, SKRAOURT, SKUR/TEU, SKAOUR/TEU, SKAOURT/T
 securities	SKAOURTS	SKUURTS	541	plural	SKAOURT/-S			
 air	AEUR	AAR	542	root				
 benefit	PWEF	BEF	543	root	PWEFPT, PWEFPBT, PW*EFPBT, PWEFPBLT, PEPB/TPEUT			brief
-benefited	PWEFPTD	BECHTD	543	conjugation	PWEFPBTD, PWEPB/TPEUT/-D		BEFD also works	missing
+benefited	PWEFPTD	BECHTD	543	conjugation	PWEFPBTD, PWEPB/TPEUT/-D		BEFD also works; BEF is benefit	missing
 benefiting	PWEFPBGT	BEFNGT	543	conjugation	PWEB/TPEUT/-G, PWEPB/TPEUT/-G		BEFG also works	missing
 trade	TRAEUD	TRAAD	544	root				
 traded	TRAEUD/-D	TRAAD/-D	544	conjugation				
@@ -914,7 +912,7 @@ staging	STAEUPBLG/-G	STAAJ/-G	551	conjugation
 space	SPAEUS	SPAAS	552	root	STPAEUS			
 spaces	SPAEUFS	SPAAFS	552	plural	SPAEUS/-S			
 instead	STPHED	SNED	553	root	STKPHED, STPHEDZ, EUP/STED, EUPB/STED, EUPB/STEUD	You want to show off your knowledge of the periodic table to your friends, so you refer to tin as SN (Sn) instead of its actual name.		brief
-realize	RAEFL	RAEFL	554	root	RAELZ, RAEFLZ, RAOELZ, RAEFLDZ, RAEFLSZ			
+realize	RAEFL	RAEFL	554	root	RAELZ, RAEFLZ, RAOELZ, RAEFLDZ, RAEFLSZ		RAELS is rales	
 realizes	RAEFLS/-S	RAEFLS/-S	554	conjugation	RAOEL/AOEUZ/-Z		RAEFLS also works	missing
 realizing	RAELD/AOEUZ/-G	RAELD/IIZ/-G	554	conjugation	RAOEL/AOEUZ/-G		REAFLG also works	missing
 usually	AOURBL	UUSHL	555	root	AOURPBL, SAOURBL, URBL/HREU, AOURB/HREU, AOURBL/HREU			brief
@@ -923,7 +921,7 @@ single	SEUPBLG	SINLG	557	root	SEUPG/*L, SEUPBG/*L, SEUPBG/-L, SEUPBLG/*L			brief
 address	A/TKRES	A/DRES	558	root	AD/RES, AD/RESZ, AD/TKRES, AD/TKRESZ			
 addresses	A/TKREFS	A/DREFS	558	conjugation	A/TKRES/-S			
 addressing	A/TKREFG	A/DREFG	558	conjugation	A/TKRES/-G, A/TKPRES/-G			
-performance	PHORPLS	PHORMS	559	root	PORPLS, P-FRPBS, PO*RPLS, PORPBGS, P-FRPL/PHAPBS		PORMS is actually performs; 	brief
+performance	PHORPLS	PHORMS	559	root	PORPLS, P-FRPBS, PO*RPLS, PORPBGS, P-FRPL/PHAPBS		PORMS is actually performs; PO*RMS also works	brief
 performances	PER/TPORPL/APBS/-S	PER/FORM/ANS/-S	559	plural			PHORMS/-S also works, PORMS/-S is performses since PORMS is performs	missing
 chance	KHAPBS	CHANS	560	root				
 chances	KHAPBSZ	CHANSZ	560	plural	KHAPBS/-S			
@@ -940,7 +938,6 @@ choices	KHOEUFS	CHOIFS	565	plural	KHO*EUFS, KHOEUS/-S
 save	SAF	SAF	566	root		In order to save a finger movement, we use SAF for save.	SAAF is safe	brief
 common	KPHOPB	KMON	567	root	KPHOB, KPHOP, KOPL/PHOPB	"A stereotype about Jamaica is that it's common to hear people say ""KMON"" (OK mon!) there."		brief
 culture	KAOUFP	KUUCH	568	root	KURLT, KOEUFP, KAO*UFP, KUL/TUR, KUL/KHUR	In ancient Japanese culture, they curled (KURLT) women's feet so they couldn't walk.		brief
-cultures	KAOUFPS	KUUCHS	568	plural	KAO*UFPS, KUL/KHURS, KUL/TAOURS			
 total	TOELT	TOELT	569	root	STOELT, TAOELT, TOE/TAL, TOET/-L, TOET/AL			brief
 totalling	TOET/-LG	TOET/-LG	569	conjugation			TOELGT is totaling which is the AE spelling	missing wrong
 totals	TOEL/ALS	TOEL/ALS	569	conjugation	TOET/-LS, THROELT/-S, TOET/A*L/-S		TOELTS also works	missing
@@ -984,7 +981,7 @@ patients	PAEURBZ	PAASHZ	589	conjugation	PAEURZ, PAEURBDZ, PAEURBGZ, PAEURBSZ, PA
 current	KURPBT	KURNT	590	root	KAOURBT, KAOURPT, KRURPBT, KAOURPBT, KUR/EPBT			
 century	KROEURPBT	COIRNT	591	root	KEPBT/REU, KREPT/REU, SEPB/TREU, KREPBT/REU, KWREPBT/REU	(i)RPB (iron) and OIL played a huge role in the 19th century, since the Bessemer Process (patented in 1856) gave people a cheap way to turn iron into steel, and oil powered all sorts of machines.		
 centuries	KREPBT/REUS	CENT/RIS	591	plural	SREPBT/REU/-S		COIRNTS also works	missing
-evidence	AEFD	AEFD	592	root	*EFD, *EF/TKEPBS	Both an AE (Accident and Emergency) and a FD (fire department) are committed to finding evidence behind why something happened, be it a fire or a car crash.		brief leech
+evidence	AEFD	AEFD	592	root	*EFD, *EF/TKEPBS	Both an AE (Accident and Emergency) and a FD (fire department) are committed to finding evidence behind why something happened, be it a fire or a car crash.		brief
 exist	KPEUFT	XIFT	593	root	KP*EUS, EBGS/EUF, EBGS/*EUS, EBGS/EUFT, EBGS/TEUFT			
 existed	KPEUFT/-D	XIFT/-D	593	conjugation	EBGS/EUFTD, KPEUFRLT/-D		XIFTD also works but is difficult to pull off	missing
 existing	EBGS/EUFG	EX/IFG	593	conjugation	KPEUFT/-G, EBGS/EUFT/-G, EBGS/EUFPT/-G		XIFGT also works	missing
@@ -1002,7 +999,6 @@ contact	KABGT	KAKT	600	root	KA*BGT, KABLGT, KOPB/TABGT			brief
 contacts	KA*Z	KA*Z	600	conjugation	KABGS, KA*BGS		KAKTS also works	missing
 particularly	PHRARL	PLARL	601	root	PRARL, PHRA*RL, PHRARLT, PHRAR/HREU, TEUBG/HREU		PLAR is particular	brief
 wife	WAOEUF	WIIF	602	root				
-wives	WAOEUFS	WIIFS	602	plural	WEUFS, WEUF/-S, WAOEUF/-S, WAO*EUF/-S, WAOEUF/H-FS			
 sport	SPORT	SPORT	603	root				
 prepare	PRAOEP	PREEP	604	root	PRAEP, PRAO*EP, PRAOEUP, PRE/PAEUR			brief
 discuss	SKUS	SKUS	605	root	SKAUS, STKUS, TKEUS/KUS, TKEUS/KUSZ	Who would want to discuss something as boring as SKUS (SKUs--stock keeping units)?		brief
@@ -1013,17 +1009,14 @@ response	SPOPBS	SPONS	606	root	SPOPBSZ, RE/SPOPBS, RAOE/SPOPBS, RE/SPOPBS/-S	"A 
 responses	SPOPBS/-S,	SPONS/-S	606	plural	SPOBS/-PS, RAOE/SPOPBS/-S		SPONSZ also works	missing
 voice	SROEUS	VOIS	607	root				
 voices	SROEUFS	VOIFS	607	plural	SROEUS/-S			
-piece	PAOES	PEES	608	root			pees doesn't have an outline	
+piece	PAOES	PEES	608	root			added PEEZ	added
 pieces	PAOEFS	PEEFS	608	plural	PAO*EFS, PAOES/-S			
 finish	TP*EURB	F*ISH	609	root	TP*EUFRB, TPEUPB/EURB	A TPEURB (fish) finishes the swimming race in record time, but he's disqualified, because this is meant to be a race for porcupines.		brief
 suppose	SPOS	SPOS	610	root	SPOES, SPOEZ, SU/POES, SU/POEZ, SUP/POES	"Your friend tells you: ""I suppose if I knew what POS (Part of Speech) meant, I would have done better on my grammar test."""		brief
-supposed	SPOED	SPOED	610	conjugation	SPOEFD, SPOFRD, POEFD/-D, SPOES/-D, SPHOES/-D		SPOS/-S also works	missing
-supposes	SPOES/-S	SPOES/-S	610	conjugation			SPOS/-S also works	missing
-supposing	SPOEFG	SPOEFG	610	conjugation	SPOEGS, SPOED/-G, SPOES/-G		SPOS/-G also works	missing
+supposed	SPOED	SPOED	610	conjugation	SPOEFD, SPOFRD, POEFD/-D, SPOES/-D, SPHOES/-D		added SPOFD; SPOS/-S also works	added missing
+supposes	SPOES/-S	SPOES/-S	610	conjugation			added SPOFS; SPOS/-S also works	added missing
+supposing	SPOEFG	SPOEFG	610	conjugation	SPOEGS, SPOED/-G, SPOES/-G		added SPOFG; SPOS/-G also works; SPOGS is supposition	added missing
 apply	A/PHRAOEU	A/PLII	611	root	A/PHAOEU, A/PHRAEU, A/PHROEU, AP/PHREU, A/A/PHRAOEU			
-applied	A/PHRAOEUD	A/PLIID	611	conjugation	WA/PHRAOEU/-D			
-applies	A/PHRAOEUS	A/PLIIS	611	conjugation				
-applying	A/PHRAOEUG	A/PLIIG	611	conjugation	A/PHRAOEU/-G			
 president	PREZ	PREZ	612	root	PREZ/TKEPBT	"(A story for P*T, the capitalized form of President: Some allege that President [Name] only works PT (part-time). ""We'd get more done if we had a porcupine in the Oval Office!"" they say.)"		brief
 presidents	PREZ/-Z	PREZ/-Z	612	plural	P-TS, PREZ/-S			
 fire	TPAOEUR	FIIR	613	root				
@@ -1048,7 +1041,7 @@ employees	PHRAOUS	PLUUS	624	plural	PHRAO*US, PHRO*EUZ, EPL/PHROEUS, PHROEU/KWRAE
 manage	PHAPBG	MANG	625	root	PHAPB/APBLG, PHAPB/TPHAPBLG	Sure, you've rowed a boat before, but do you really think you can manage manning (MANG) a battleship??		brief
 manages	PHAPBGZ	MANGZ	625	conjugation	PHAPBG/-S, PHAPB/APBLG/-S		MANGS is mansion	
 managing	PHAPBG/-G	MANG/-G	625	conjugation	PHAPB/APBLG/-G			
-simply	SAO*EPL	S*EEM	626	root	SAO*EFPL, S*EUPL/HREU, SEUFRP/HREU, SEUPL/PHREU, S*EUPL/PHREU		simple is S*IM	brief
+simply	SAO*EPL	S*EEM	626	root	SAO*EFPL, S*EUPL/HREU, SEUFRP/HREU, SEUPL/PHREU, S*EUPL/PHREU		SLPI in plover; simple is S*IM	brief missing
 bank	PWA*PBG	BA*NG	627	root	PWA*FPBG, PWAPB/*BG, PWAPB/-BG		BANG is bang	brief
 firm	TPEURPL	FIRM	628	root	TPEUFRPL			
 cell	KREL	CEL	629	root				
@@ -1081,7 +1074,7 @@ official	TPEURBL	FISHL	643	root	TPOEURBL, O/TPEURBL, OE/TPEURBL, OE/TPEU/SHAL	Af
 financial	TP-PBL	F-NL	644	root	TP-PBGS, TPH-PBGS, TP-PB/SHAL, TP-PBGS/A*L, TP-PBS/-RBL	Depending on your financial situation, you can fly (F) with no limit (NL).		brief
 miss	PHEUS	MIS	645	root	PHEUSZ			
 missed	PHEUFD	MIFD	645	conjugation				
-misses	PHEUFZ	MIFZ	645	conjugation			MIFS is massive	
+misses	PHEUFZ	MIFZ	645	conjugation			added MISZ which was miss (MIS is already miss); MIFS is massive	added
 missing	PHEUFG	MIFG	645	conjugation	PHEUS/-G, TPHEUS/-G			
 art	ART	ART	646	root				
 campaign	KPAEUPB	KPAAN	647	root	KAPL/PAEUPB, KAFRP/PAEUPB	Any electoral campaign ends in lots of PAEUPB (pain) for one of the candidates--the one who lost.		brief
@@ -1124,7 +1117,6 @@ wondering	WOPBGD	WONGD	665	conjugation	WOPBD/ERG, WOPBD/ER/-G, WOPB/TKER/-G, WOP
 wonders	WOPBDZ	WONDZ	665	conjugation	WOPBD/ERS			
 nature	TPHAEUFP	NAACH	666	root	TPHAEURT, TPHAEU/TUR, TPHAEUT/UR, TPHAEU/KHUR, TPHAEUT/AOUR			brief
 structure	STRAOUFP	STRUUCH	667	root	TRAOUFP, STRAOURB, STAOURBGT, STKRAOUFP, STRAOUBGT			brief
-structures	STRAOUFPS	STRUUCHS	667	plural	STRUBG/KHURS, STRUBG/TAOURS, STRUBGT/KHURS, STRUBG/TAOURBGS, STRAOUBG/TAOUR/-S			
 section	SEBGS	SEKSHUN	668	root	S*EBGS, SEBG/SHUPB			
 sections	SEBGS/-S	SEKSHUN/-S	668	plural			SEKSHUNZ also works	missing
 myself	PHAO*EUS	M*IIS	669	root	PHAEU/SEFL, PHAOEU/SEFL, PHAOEU/SEFPL, PHAOEUPL/SEFL		MIIS is mice	brief
@@ -1148,8 +1140,8 @@ influence	WEPBS	WENS	680	root	TPHRAOUPBS, EUPB/TPHRAOUPBS, EUPB/TPHRAOU/EPBS	If 
 influenced	EUPB/TPHRAOUPBS/-D	IN/NRUUNS/-D	680	conjugation			WENS/-D also works	missing
 influences	EUPB/TPHRAOUPBS/-S	IN/FLUUNS/-S	680	conjugation			WENSZ or WENS/-Z also works	missing
 influencing	TPHRAOUPBS/-G	NRUUNS/-G	680	conjugation	TPHRAOU/EPBS/-G		added WENGS	added
-respect	R-PT<br />	R-PT	681	root	SPEBGT, PEBGT, SPWEBGT, RE/PEBGT, RE/SPEBGT		added R-P (was reason which is also R-N)	added brief
-respecting	R-PG	R-PG	681	conjugation	R-PT/-G, RAOE/SPEBGT/-G			
+respect	R-PT	R-PT	681	root	SPEBGT, PEBGT, SPWEBGT, RE/PEBGT, RE/SPEBGT		added R-P (was reason which is also R-N)	added brief
+respecting	R-PG	R-PG	681	conjugation	R-PT/-G, RAOE/SPEBGT/-G	I'm respecting the people that put a lot of effort in the costumes that they wear to RPG conventions.		
 various	SRAEURS	VAARS	682	root	SRAEURBS, SRAR/KWROS, SRAR/KWRUS, SRAR/KWROUS, SRARS/KWRUS			brief
 catch	KAFP	KACH	683	root				
 caught	KAUT	KAUT	683	conjugation	KAUGT			
@@ -1160,7 +1152,7 @@ attempted	A/TEPL/-D	A/TEM/-D	686	conjugation	A/TEPLT/-D		A/TEMTD also works	miss
 attempting	A/TEPLT/-G	A/TEMT/-G	686	conjugation	A/TPEPLT/-G		A/TEMGT also works	missing
 son	SOPB	SON	687	root				
 simple	S*EUPL	S*IM	688	root	S*EUFPL, SEUFRPL, SEUFRP/-L, SEUPL/*PL, SEUPL/-PL		*PL is -MP	brief
-simpler	 S*EUPL/HRER	S*IM/LER	688	comparative	SEPL/PHRER, SEUFRPL/ER, S*EUPL/HRER, SAO*EPL/*ER, SEUFRP/HRER, SEUPL/PHRER		S*IM/*ER also works	missing
+simpler	S*EUPL/HRER	S*IM/LER	688	comparative	SEPL/PHRER, SEUFRPL/ER, S*EUPL/HRER, SAO*EPL/*ER, SEUFRP/HRER, SEUPL/PHRER		S*IM/*ER also works	missing
 simplest	SEUPL/EFT	SIM/EFT	688	superlative	SEUFRPL/*ES, SEUFRP/HR*ES, SEUPL/PHR*ES, SEUPL/PHREFT, SEUPL/P-L/*ES		S*IM/EFT also works	missing
 medium	PHAOEPLD	MEEMD	689	root	PHAO*EPL, PHED/KWRUPL, PHAOED/KWRUP, PHAOED/KWRUPL	The internet is a medium where everything gets MEEMD (memed--turned into a meme), from something Donald Trump said to Harambe.		brief
 mediums	PHAOEPLDZ	MEEMDZ	689	conjugation	PHAOET/KWRUPLS			
@@ -1168,12 +1160,12 @@ media	PHAOED/KWRA	MEED/YA	689	plural	PHO*EUD		MOID is employed
 average	AFRG	AFRG	690	root	AFG, A*FRG, AFRPBG, AFRPBLG, A*FRPBLG			brief
 averaging	AFRPBLG/-G	AFRJ/-G	690	conjugation			AFRG/-G also works	missing
 stock	STOBG	STOK	691	root	STKOBG, STOBLG			
-management	PH-GT	M-GT	692	root	PHAPLT, PHA*PLT, PHAPBG/*PLT, PHAPBGS/*PLT, PHAPB/APBLG/*PLT	"A mother brags to everyone she knows about her son: ""Did you know he's in a GT (Gifted and Talented) program? I know he'll go into management one day."""		brief
+management	PHAPLT	MAMT	692	root	PH-GT, PHA*PLT, PHAPBG/*PLT, PHAPBGS/*PLT, PHAPB/APBLG/*PLT			brief
 character	KRAR	KRAR	693	root	KARBG, KARBGT, KARBG/TER, KARBGT/ER, KRABT/*ER	Imagine someone that pronounces character with an emphasis on the second a (which would result in the brief being KRAR). That person definitely has a special character.		brief
 bed	PWED	BED	694	root				
 hit	HEUT	HIT	695	root				
 hitting	HEUGT	HIGT	695	conjugation	HEUT/-G			
-establish	SAEBL	SAEBL	696	root	STAEB, STAEBL, PWHREURB, E/STAB/HREURB, ES/TAB/HREURB			brief
+establish	STAEB	STAEB	696	root	SAEBL, STAEBL, PWHREURB, E/STAB/HREURB, ES/TAB/HREURB			brief
 establishing	STABL/-G	STABL/-G	696	conjugation	STAEB/-G		SAEBLG also works	missing
 indeed	TPHAOEPBD	NEEND	697	root	EUPB/TAOED, EUPB/TKAOED, EUPB/TKAOEDZ, EUPB/TKPWAOED	I love PB (peanut butter) so much that for me, it's not simply a want; it's actually a NAOED (need).		
 final	TPAOEUPBL	FIINL	698	root	TPAOEU/TPHAL			
@@ -1247,24 +1239,22 @@ recognizing	REGZ	REGZ	733	conjugation	R*EFG, REBG/TPHAOEUZ/-G
 window	WOEUPBD	WOIND	734	root	WO*EUPBD, WAO*EUPBD, WO*EUPBTD, WEUPB/TKOE, WEUPBD/TKOE	Because you spilled motor OIL on one of your car's windows, after which the oil got into the window's electronics, you find that you can't W(i)ND (wind) it up or down anymore. It's stuck where it is.		brief
 windows	WEUPB/TKOES	WIN/DOES	734	plural	WEUPBD/TKOES, WEUPB/TKOE/-S		WOINDZ also works	missing
 purpose	PURP	PURP	735	root	PURPB, TPURP, PUR/POS			brief
-department	TKEPT	DEPT	736	root	TK-PT, TKEPLT, TKP-PT, TKPARPLT, TKE/PARPLT	DPT stands for a Doctor of Physical Therapy degree. If your back and shoulders are tired out from shopping at department stores, you may need to visit a DPT for therapy.		brief
+department	TK-PT	D-PT	736	root	TKEPT, TKEPLT, TKP-PT, TKPARPLT, TKE/PARPLT	DPT stands for a Doctor of Physical Therapy degree. If your back and shoulders are tired out from shopping at department stores, you may need to visit a DPT for therapy.		brief
 gain	TKPWAEUPB	GAAN	737	root	TKPAEUPB, TPWAEUPB			
 tree	TRAOE	TREE	738	root				
 college	KHREPBLG	KLEJ	739	root	KOL/EPBLG, SKPHREPBLG, KOL/HREPBLG			
 argue	ARG	ARG	740	root	AR/TKPWAOU, ARG/KWRAOU	"If two pirates started to argue, you would hear a lot of ""ARG!"" (Arrrg!)."		brief
 arguing	ARG/-G	ARG/-G	740	conjugation	A*RG/-G			
 board	PWAORD	BOORD	741	root	PAORD		BORD is bored	
-holiday	HOL/TKAEU	HOL/DAA	742	root	OL/TKAEU, HOL/TKEU, HO*L/TKAEU, HOL/TKEU/TKAEU	The best snow holidays from school are the ones that last OL/DAEU (as opposed to just one- or two-hour delays). So pray for a big storm!		brief
-holidays	HOL/TKAEUS	HOL/DAAS	742	plural				
+holiday	HOL/TKAEU	HOL/DAA	742	root	OL/TKAEU, HOL/TKEU, HO*L/TKAEU, HOL/TKEU/TKAEU			brief
 mark	PHARBG	MARK	743	root				missing
 marking	PHARBG/-G	MARK/-G	743	conjugation				
 church	KHUFRPB	CHURCH	744	root	KHUFPB, KHUR/*FP, KH*URPBLG		FRPB is -rch or -nch	
 machine	PH-PB	M-N	745	root	PHA/SHAOEPB	M-N (Minnestota) is the #1 state for iron ore production in the U.S. (It's true--just look on Wikipedia!) Picture a giant mining machine at work at one of Minnesota's open-pit iron mines.		brief
 achieve	A/KHAOEF	A/CHEEF	746	root	KHEF, A/HAOEF, A/KHAOEFP, A/KHRAOEF, A/A/KHAOEFP	One of the highest professional honors a KHEF (chef) can achieve is getting three Michelin stars for her restauant.		brief
 item	AOEUPLT	IIMT	747	root	AOEU/TEPL, AOEUT/EPL, AOEUT/TEPL			brief
-prove	PROF	PROF	748	root	PRAO*UF		PROOF is proof	brief
+prove	PROF	PROF	748	root	PRAO*UF	The PROF (professor) wants to prove to his students that NP=P.	PROOF is proof	brief
 cent	KREPBT	CENT	749	root				
-cents	KREPBTS	CENTS	749	plural	S-TS, KREPBT/-S			
 season	S-PB	S-N	750	root	SAOEGS, SAO*EGS, SE/SOPB, SAOES/O*PB			brief
 seasons	SAOES/OPBS	SEES/ONS	750	plural	SAOE/SOPB/-S		added S-NS (was as soon as which is also SOONS)	added
 floor	TPHRAOR	FLOOR	751	root				
@@ -1272,7 +1262,7 @@ stuff	STUF	STUF	752	root	ST*UF, STUFP			brief
 wide	WAOEUD	WIID	753	root	WHAOEUD			
 wider	WAO*EURD	W*IIRD	753	comparative	WAOEUD/ER, WAOEUD/*ER		WIIRD is wired	
 widest	WAOEUD/*ES	WIID/*ES	753	superlative	WAOEUD/EFT			
-anyone	TPHEUPB	NIN	754	root	TPHEU/W*UPB	You could ask anyone on the street what NIN stands for and the answer would always be Nine Inch Nails. 		
+anyone	TPHEUPB	NIN	754	root	TPHEU/W*UPB	You could ask anyone on the street what NIN stands for and the answer would always be Nine Inch Nails.		
 method	PHO*D	MO*D	755	root	340*D, PH*ETD, PHO*ED, A/PHO*D, PH*ET/OD	One method to increase a game's playability is to MOD (mod) it--for instance, by changing a game's code to replace all the enemies in the game with porcupines.		brief
 analysis	AEPBLS	AENLS	756	root	A*PBLS, APBL/EUS, APBL/SES, 57B8/SEUS, APBG/SEUS	To do an analysis of whether drunk driving accidents have increased, you first must look through the AEPBLS (annals) of ACCIDENT & EMERGENCY DEPARTMENT (AE) records and research what happened.		brief
 analyses	AEPBLS/-S	AENLS/-S	756	plural	APBL/SAOES, APBL/SAOEZ, TPHEUL/SES, APB/AL/SAOEZ, A/TPHAL/SAOES			
@@ -1291,13 +1281,13 @@ nation	TPHA*EUGS	NAA*SHN	767	root			swapped NAASHN (was -ination) with N-SHN (wa
 nations	TPHAEUGS/-S	NAASHN/-S	767	plural				
 nearly	TPHAOERL	NEERL	768	root	TPHAOER/HREU			
 statement	STAEUPLT	STAAMT	769	root				brief
-link	HR*EUPBG	L*ING	770	root	HR*EUPG, HR*EUFPBG, HREUPB/*BG, HREUPB/-BG		LING is ling	
+link	HR*EUPBG	L*ING	770	root	HR*EUPG, HR*EUFPBG, HREUPB/*BG, HREUPB/-BG		LING is -ling	
 linking	HREUPB/K-G	LIN/K-G	770	conjugation			L*ING/-G also works	missing
 despite	STKPAOEUT	SDPIIT	771	root	TKE/SPAOEUT, TKES/PAOEUT, TKES/SPAOEUT, TKAOE/SPAOEUT			brief
 introduce	TROU	TROU	772	root	SPWROUS, EUPBT/TKAOUS, SPWRO/TKAOUS, EUPB/TRO/TKAOUS, EUPB/TROE/TKAOUS	Let's pretend that TROU (trou) is a verb for using a trowel. If you want to introduce someone to the joys of gardening, the first step is to teach them how to TROU!		brief
 advantage	SRAPBG	VANG	773	root	AD/SRAPB/TAPBLG, AD/SRAPBT/APBLG	The advantage of having a van (like a VW Bus or a Westy) over a compact car is that you can go VANG (van-ing). Vaning is like camping, except that you sleep in your van.		brief
 ready	R*ED	R*ED	774	root	TKRAE, RED/TKEU, RAED/TKEU, RED/KWREU, RAED/KWREU		R-D also works	brief missing
-readier	RED/KWRER	RED/YER	774	comparative			R-D/*ER also works	missing
+readier	RED/KWRER	RED/YER	774	comparative			R-D/*ER also works	missing non-existing
 readiest	RED/KWR*ES	RED/Y*ES	774	superlative			R-D/EFT also works	missing
 marry	PHAER	MAER	775	root	PHAR/REU, PHAER/KWREU, PHAEUR/KWREU	To remember that this outline uses just A and E, remember that A (Adam) and E (Eve) were the first people to marry.		brief
 marrying	PHAEUR/EUG	MAAR/IG	775	conjugation	PHAR/REU/-G, PHAR/KWREU/-G		MAERG also works	missing
@@ -1320,12 +1310,12 @@ released	RE/HRAOES/-D	RE/LEES/-D	786	conjugation	RE/HRAO*EFD, RES/HRAO*EFD, RAOE
 releases	RE/HRAOES/-S	RE/LEES/-S	786	conjugation	RE/HRAO*EFS, RAOE/HRAOES/-S		RE/LEESZ also works	missing
 releasing	RE/HRAO*EFG	RE/L*EEFG	786	conjugation	RE/HRAOES/-G, RE/HRAOEUS/-G, RAOE/HRAOES/-G		RE/LEEGS also works	missing
 tax	TABGS	TAX	787	root	TAGS			
-taxes	TABGS/-S	TAX/-S	787	plural	TABGS/-GS			
+taxes	TABGS/-S	TAX/-S	787	plural	TABGS/-GS		TAXZ also works	missing
 solution	SHRAOUGS	SLUUSHN	788	root	SHRAO*UGS, SOL/AOUGS, SO/HRAOUGS, SOE/HRAOUGS			brief
 solutions	STHRAOUGS	STLUUSHN	788	plural	SHRAOUGS/-G		SLUUSHNZ also works	missing
 capital	KPAL	KPAL	789	root	KA*L, KHA*L, KAP/TAL, KAPT/AL, KAPT/A*L	If you represent a congressional district at the nation's capital, every lobbyist in the country wants to be your PAL (pal).		brief
 popular	PHRA*R	PLA*R	790	root	POP/HRAR, POP/KWRU/HRAR, POP/KWRAOU/HRAR	Dancing on top of a PLAR (pillar) is a popular form of recreation for porcupines.	PLAR is particular	brief
-specific	SPEFBG	SPEFK	791	root	SPEUFBG, SPE/SEUFBG, SPE/SEUF/EUBG			brief
+specific	SPEUFBG	SPIFK	791	root	SPEFBG, SPE/SEUFBG, SPE/SEUF/EUBG			brief
 beautiful	PWAOUFL	BUUFL	792	root	WAOUFL, PWAOUT/-FL, PWAOU/TEUFL, PWAOUT/TPUL, PWAOU/TEU/-FL			brief
 fear	TPAOER	FEER	793	root				
 fears	TPAOERZ	FEERZ	793	conjugation	TPAO*ERS		FEERS is fierce	
@@ -1344,10 +1334,8 @@ reddest	RED/*ES	RED/*ES	800	superlative
 husband	HUS	HUS	801	root	HUZ, HUS/PWAPBD, HUZ/PWAPBD			brief
 husbands	HUZ/-Z	HUZ/-Z	801	plural	HUS/PWAPBDZ, HUZ/PWAPBDZ		HUSZ also works	missing
 access	KPES	XES	802	root	ABG/ES, ABG/SES, ABGS/ES, ABG/SESZ, ABGS/SES	After joining the Texas XES (Exes), you get unlimited access to Bevo (UT's mascot), and can pet him anytime.		brief
-movement	PHOFPL	MOFM	803	root	PHOFPLT, PHO*FPLT, PHOEFPLT, PHOF/*PLT, PHAO*UFPLT	Lighthouses are tough, since you can try to PHOFPL (mov'm) all day, but they won't show any movement.		
-movements	PHOFPLTS	MOFMTS	803	plural	PHOFPLTSZ, PHOFPLT/-S		MOFMS also works	missing
+movement	PHOFPLT	MOFMT	803	root	PHOFPL, PHO*FPLT, PHOEFPLT, PHOF/*PLT, PHAO*UFPLT			
 treat	TRAOET	TREET	804	root				
-treated	TRAETD	TRAETD	804	conjugation	TRAOETD, TRAOET/#-D, TRAOET/-D/-D			
 treating	TRAOEGT	TREEGT	804	conjugation				
 identify	AOEUFD	IIFD	805	root	AO*EUD, KWRAOEUF, KWRAO*EUD, AOEUD/TPEU, AOEUD/TPAOEU	After the FD (fire department) puts out a fire, they then have to try to identify what caused it.		brief
 identified	AOEUD/TPAOEUD	IID/FIID	805	conjugation	SAOEUD/TPAOEUD, AOEUD/TPAOEU/-D, AOEU/TKEPBT/TPAOEUD		IIFD/-D also works	missing
@@ -1358,7 +1346,7 @@ losses	HROS/-S	LOS/-S	806	plural			added LOSZ (was loss which is also LOS)	added
 shall	SHAL	SHAL	807	root				
 modern	PHOERPB	MOERN	808	root	PHOD/ERPB, PHOD/TKERPB	One modern form of communication is E-mail, but some people MORN (mourn) its development because people now talk to each other less.		brief
 pressure	PRERB	PRESH	809	root	PR-RB, PR*ERB, PR*EFRB, PRES/SHUR, PRERB/AOUR			brief
-pressures	PR*ERBS	PR*ESHS	809	plural	PRERB/-S, PRES/SHURS, PRERB/AOURS, PRERB/SHURS, PRERB/KWRURS		PRESHS is precious	
+pressures	PRERB/-S	PRESH/-S	809	plural	PR*ERBS, PRES/SHURS, PRERB/AOURS, PRERB/SHURS, PRERB/KWRURS		PRESHS is precious; PRESHZ also works	missing
 bus	PWUS	BUS	810	root				
 buss	PWUSZ	BUSZ	810	plural				
 treatment	TRAOEPLT	TREEMT	811	root	TRAOEPL, STRAOEPLT, TRAOEFPLT			brief
@@ -1369,20 +1357,20 @@ village	SREULG	VILG	814	root	SR*EULG, SREUL/APBLG, SREUL/HRAPBLG
 worth	WO*RT	WO*RT	815	root	WO*RLT			brief
 natural	TPHARL	NARL	816	root	TPHAT/RAL, TPHAFP/RAL	"If you try to use the word ""g-NARL-y"" (gnarly), but you're not a surfer, it's just not going to sound natural."		brief
 express	EBGS/PRES	EX/PRES	817	root	EBGS/TRES			
-expressed	EBGS/PRES/-D	EX/PRES/-D	817	conjugation	EBGS/PREFD			
+expressed	EBGS/PREFD	EX/PREFD	817	conjugation	EBGS/PRES/-D			
 expresses	EBGS/PRES/-S	EX/PRES/-S	817	conjugation	EBGS/TPRES/-S		EX/PRESZ also works	missing
-expressing	EBGS/PRES/-G	EX/PRES/-G	817	conjugation			EX/PREGS is expression	
+expressing	EBGS/PRES/-G	EX/PRES/-G	817	conjugation			EX/PREGS is expression; EX/PREFG in plover	missing
 indicate	EUPBD/KAEUT	IND/KAAT	818	root	KA*EUT, KAEULT, EUPB/TKEU/KAEUT	You indicate to your friend Kate that there's a large porcupine on the chair where she's about to sit.	KATE is -cate	brief
 indicating	EUPBD/KAEUT/-G	IND/KAAT/-G	818	conjugation	KAEUGT, KA*EUGT, KAEUT/-G		added IND/KAAGT	added
 attend	A/TEPBD	A/TEND	819	root	A/TEPBLD			
 attended	A/TEPBD/-D	A/TEND/-D	819	conjugation				
 attending	A/TEPBD/-G	A/TEND/-G	819	conjugation	A/TEPBDZ/-G, A/TEPBLD/-G		A/TENGD also works	missing
 brother	PWROER	BROER	820	root	PWRO*T/ER, PWRO/THER			brief
-brethren	PWR*ET/REPB	BR*ET/REN	820	plural				
+brethren	PWR*ET/REPB	BR*ET/REN	820	plural			archaic plural of brother; BR*ET is breath	
 investment	SREFPLT	VEFMT	821	root	SREFPT, SREUFPLT, EUPB/SREFPLT, EUPB/SRES/*PLT			brief
 score	SKOR	SKOR	822	root	SKOER			
 organize	ORG	ORG	823	root	ORG/TPHAOEUZ, O*R/TKPWA/TPHAOEUZ, O*R/TKPWAPB/TPHAOEUZ	If you're a nonprofit group that's trying to organize a local flag football league, why not set up a .ORG website?		brief
-organizes	ORGZ	ORGZ	823	conjugation	ORG/-S			
+organizes	ORGZ	ORGZ	823	conjugation	ORG/-S		ORGS is organization	
 organizing	ORG/-G	ORG/-G	823	conjugation				
 trip	TREUP	TRIP	824	root				
 beyond	KWROPBD	YOND	825	root	PWE/KWROPBD			brief
@@ -1391,8 +1379,8 @@ slept	SHREPT	SLEPT	826	conjugation	SHREPD
 fish	TPEURB	FISH	827	root				
 promise	PROPLS	PROMS	828	root	PRO*PLS, PRO/PHEUS, PROPL/EUS, PROPL/PHEUS			
 promised	PROPLS/-D	PROMS/-D	828	conjugation	PROPL/EUS/-D			
-promises	PROPLS/-S	PROMS/-S	828	conjugation				
-promising	PROPLS/-G	PROMS/-G	828	conjugation			PROMGS is proportion	
+promises	PROPLS/-S	PROMS/-S	828	conjugation			PROMSZ also works	missing
+promising	PROPLS/-G	PROMS/-G	828	conjugation			PROPLGS is proportion	
 potential	PEPBL	PENL	829	root	TPEPBL, POE/TEPBL, POE/TEPBGS, PO/TEPB/-RBL, POE/TEPB/-RBL	I believe that people in the PENL (penal) system still have a lot of potential to do good in the world.		brief
 energy	TPH-RG	N-RG	830	root	TPH-RPBLG, EPB/ER/SKWREU	NRG is a large American energy company.		
 trouble	TRUBL	TRUBL	831	root	TROUBL, TRUPBL			
@@ -1406,7 +1394,6 @@ middling	PHEUD/HREUPBG	MID/LING	835	conjugation				non-existing
 bar	PWAR	BAR	836	root				
 suffer	SUFR	SUFR	837	root	SUF/ER			
 strategy	STRAPBLG	STRAJ	838	root	STRAOEPBLG, STRAT/SKWREU			brief
-strategies	STRAPBLGS	STRAJS	838	plural	STRAPBGS, STRAPBLS, STRAPLGS, STAPBLG/-S, STRAOEPBLGS			
 deep	TKAOEP	DEEP	839	root				
 deeper	TKAOERP	DEERP	839	comparative	TKAOEP/*ER			
 deepest	TKAOEP/EFT	DEEP/EFT	839	superlative				
@@ -1418,30 +1405,27 @@ tended	TEPBD/-D	TEND/-D	842	conjugation	STEPBD/-D, TEPB/TKED
 tending	TEPBGD	TENGD	842	conjugation	TEPBD/-G			
 advance	SRAPBS	VANS	843	root	AD/SRAPBS	Teenagers probably saw VANS (Vans) as an advance in footwear, whereas parents may have seen them as a decline.		brief
 advances	SRAPBSZ	VANSZ	843	conjugation	SRAPBS/-S			
-advancing	SRAPBS/-G	VANS/-G	843	conjugation				
+advancing	SRAPBS/-G	VANS/-G	843	conjugation			VANGS is advantages	
 fill	TPEUL	FIL	844	root				
 star	STAR	STAR	845	root				
-network	TPHERBG	NESHG	846	root	TPHOERBG, TPHO*ERBG, TPHET/O*RBG, TPHET/WORBG	"A ""NERK"" (nerk) is a derogatory term for a nerd who knows how to repair networks. Don't be mean to them--they will fix your internet!"		brief
-networks	TPHOERBGS	NOERX	846	plural				
-generally	SKWHREPBL	SQLENL	847	root	SKWHREPL, SKWRERPBL, SKPWHREPBL, KWREPBL/HREU, SKWREBL/HREU			brief
-operation	OERPGS	OERPSHN	848	root	PRAEUGS, OP/RAEUGS, OP/ER/RAEUGS, OP/PER/RAEUGS			brief
-operations	OP/RAEUBGS	OP/RAAX	848	plural	PRAEUGS/-S, OP/RAEUGS/-S			
+network	TPHERBG	NERK	846	root	TPHOERBG, TPHO*ERBG, TPHET/O*RBG, TPHET/WORBG	"A ""NERK"" (nerk) is a derogatory term for a nerd who knows how to repair networks. Don't be mean to them--they will fix your internet!"		brief
+networks	TPHOERBGS	NOERX	846	plural			NERKS also works	missing
+generally	SKWRERPBL	JERNL	847	root	SKWHREPBL, SKWHREPL, SKPWHREPBL, KWREPBL/HREU, SKWREBL/HREU		JENL is general so we add an additional R	brief
+operation	PRAEUGS	PRAASHUN	848	root	OERPGS, OP/RAEUGS, OP/ER/RAEUGS, OP/PER/RAEUGS			brief
+operations	PRAEUGS/-S	PRAASHUN/-S	848	plural	OP/RAEUBGS, OP/RAEUGS/-S		PRAASHUNZ also works	missing
 match	PHAFP	MACH	849	root				
-avoid	A/SREUD	A/VID	850	root	A/SROEUD, AOE/SROED			
+avoid	A/SROEUD	A/VOID	850	root	A/SREUD, AOE/SROED			
 avoided	A/SROEUD/-D	A/VOID/-D	850	conjugation				
 avoiding	A/SROEUGD	A/VOIGD	850	conjugation	A/SROEUD/-G			
-avoids	A/SROEUDZ	A/VOIDZ	850	conjugation				
 seat	SAOET	SEET	851	root				
-throw	THROE	TLOE	852	root	THROU			
-threw	THRAOU	TLUU	852	conjugation				
+throw	THROU	THROU	852	root	THROE			
+threw	THRAOU	THRUU	852	conjugation				
 task	TAFBG	TAFK	853	root	TAFPBG, TAS/*BG, TAS/-BG			
-tasks	TAFBS	TAFBS	853	plural	TAFBGS, TAS/*BGS, TAS/-BGS, TAS/*BG/-S			
 normal	TPHOL	NOL	854	root	TPHOR/PHAL, TPHORL/A*L, TPHORPBL/A*L, TPHORPL/PHAL	It's a normal part of the scientific method to assume that the TPHOL (null) hypothesis is true, unless you can determine otherwise. (A null hypothesis states that there won't be a significant difference in the dependent variable between two independent variables.)		brief
 goal	TKPWOEL	GOEL	855	root	TKPWAOEL			
-goals	TKOELS	DOELS	855	plural	TKPWOELS			
-associate	SOERBT	SOESHT	856	root	SOES/KWRAT, SOES/KWAEUT, A/SOES/KWRAT, SOES/KWRAEUT, AS/SOES/KWRAT	If you're recovering from alcoholism, it's a good idea to associate with people who are SOERB (sober). (SOERB is the outline for 'sober.')		brief
+associate	SOERBT	SOESHT	856	root	SOES/KWRAT, SOES/KWAEUT, A/SOES/KWRAT, SOES/KWRAEUT, AS/SOES/KWRAT		added SOSHT (was sort which is also SORT)	added
 associated	SOERBD	SOESHD	856	conjugation	SOERBTD, SOES/-D, SOET/-D, SOERPBTD, SOERBT/-D			
-associating	SOERBT/-G	SOESHT/-G	856	conjugation				
+associating	SOERBT/-G	SOESHT/-G	856	conjugation			added SOSHGT	added
 blue	PWHRU	BLU	857	root	PHRU, PWHRAO*U			
 bluer	PWHRU/ER	BLU/ER	857	comparative	PWHRAO*U/ER			
 bluest	PWHRU/*ES	BLU/*ES	857	superlative	PWHRAO*U/*ES			
@@ -1449,9 +1433,9 @@ positive	PEUF	PIF	858	root	PO*F, P*EUF, POS/TEUF, POS/T*EUF, POZ/T*EUF	Christian
 option	OPGS	OPSHN	859	root	OPBGS			
 options	OPGSZ	OPSHNZ	859	plural	OPGS/-S			
 box	PWOBGS	BOX	860	root				
-boxes	PWOBGS/-S	BOX/-S	860	plural				
+boxes	PWOBGS/-S	BOX/-S	860	plural			BOXZ also works	missing
 huge	HAOUPBLG	HUUJ	861	root	HAOUPBG, HAO*UPBLG			
-huger	HAOUPBLG/ER	HUUJ/ER	861	comparative				
+huger	HAOUPBLG/ER	HUUJ/ER	861	comparative			added HUURJ	
 hugest	HAOUPBLG/*ES	HUUJ/*ES	861	superlative				
 message	PHEPBLG	MEJ	862	root	PHES/APBLG, PHES/SAPBLG, PHESZ/APBLG, PHESZ/SAPBLG			brief
 instance	STPHAPBS	SNANS	863	root	EUPB/TAPBS, EUPB/STAPBS, EUPBS/TAPBS, EUPB/TAPBS/-S			brief
@@ -1470,14 +1454,14 @@ assumed	A/SAOUPLD	A/SUUMD	869	conjugation	A/SAOUPL/-D
 assumes	A/SAOUPLS	A/SUUMS	869	conjugation				
 assuming	A/SAOUG	A/SUUG	869	conjugation	A/SAO*UG, A/SAOUPLG, A/SAOUPL/-G, A/A/SAOUPL/-G			
 baby	PWAEB	BAEB	870	root	PWA*EB, PWA*EUB, PWAEU/PWEU, PWAEUB/PWEU, PWAEUB/KWREU	A baby may be born in an ACCIDENT & EMERGENCY DEPARTMENT (AE) if there was a complicated pregnancy.		
-successful	SKEFL	SKEFL	871	root	SUBG/SES/TPUL			brief
+successful	SKEFL	SKEFL	871	root	SUBG/SES/TPUL		success is SKES	brief
 sing	SEUPBG	SING	872	root				
 singing	SEUPBG/-G	SING/-G	872	conjugation				
 sung	SUPBG	SUNG	872	conjugation				
 doubt	TKOUT	DOUT	873	root	TKOUBT			
 doubted	TKOUT/-D	DOUT/-D	873	conjugation				
 doubting	TKOUGT	DOUGT	873	conjugation	TKOUT/-G			
-competition	KPEGS	XESHN	874	root	KP*EUGS, KPE/TEUGS, KOFRP/TEUGS, KOPL/PE/TEUGS	Imagine a global competition to see how many PEGS (pegs) you can hit into the ground in one minute.		brief
+competition	KPEGS	KPESHN	874	root	KP*EUGS, KPE/TEUGS, KOFRP/TEUGS, KOPL/PE/TEUGS	Imagine a global competition to see how many PEGS (pegs) you can hit into the ground in one minute.		brief
 theory	THOEUR	THOIR	875	root	THAOEUR, THO*EUR, THAOE/REU, THAOER/REU, THAER/KWREU	There used to be a theory that any country could prosper as long as there was enough OIL THR (there), but we now know that's not the case. Consider the phenomenon of the 'resource curse.'		brief
 propose	PROEP	PROEP	876	root	PRO*EP, PRO/POES, PROE/POES, PROEP/OES	"A guy wants to propose to his girlfriend in an unforgettable way, so he swings from a tall building on a ROEP (rope) and yells, ""Will you marrry meeee!"" as he flies past her."		brief
 proposes	PRO/POES/-S	PRO/POES/-S	876	conjugation	PROE/POES/-S			
@@ -1488,9 +1472,9 @@ argument	ARGT	ARGT	878	root	AERPLT, ARG/*PLT, ORG/*PLT, A*RG/*PLT, ARG/AOUPLT			
 arguments	AERPLTS	AERMTS	878	plural	ARG/-PLTS			
 adult	TKULT	DULT	879	root	A/TULT, AD/ULT, A/TKULT, A/TKPULT	There may be a few adults who strike you as being a bit of a DKULT (dolt), but get to know them and you may learn that there's more to them than you thought.		
 adults	A/TKULTS	A/DULTS	879	conjugation	A/TKULGTS, A/TKULTSZ			
-fly	TPHRAOEU	NRII	880	root				
-flew	TPHRAOU	NRUU	880	conjugation				
-flown	TPHROEPB	NROEN	880	conjugation	TPHROUPB			
+fly	TPHRAOEU	FLII	880	root				
+flew	TPHRAOU	FLUU	880	conjugation				
+flown	TPHROUPB	FLOUN	880	conjugation	TPHROEPB			
 document	TKOUPLT	DOUMT	881	root	TAOUPLT, TKAOUPLT, TKOBG/*PLT, TKOBG/UPLT, TKOBG/AOUPLT	Picture a rich person enjoying retirement in MT (Montana) who checks his financial documents to see how the DOU (Dow) Jones Index is doing.		brief
 documents	TKAOUPLS	DUUMS	881	plural	TKAOUPLTS, TKAOUPLGTS, TKAOUPLTSZ, TKAOUPLT/-S, TKOBG/-PLTS			
 pattern	AT/TERPB	AT/TERN	882	root	PAT/ERPB, PAT/TERPB, PAT/TOERPB			
@@ -1503,17 +1487,17 @@ hottest	HOT/*ES	HOT/*ES	884	superlative	HOT/EFT, HOT/TEFT
 obviously	OBL	OBL	885	root	OEBL, OFBL, O*FBL, OEFBL, OFPBL	This brief sounds a little bit like opal. When you see a piece of OBL (opal), you'll recognize that it's obviously opal, given its iridescence and unique colors. (Take a look at opal's Wikipedia page to see what I mean.)		brief
 unclear	UPB/KHRAOER	UN/KLEER	886	root				
 bill	PWEUL	BIL	887	root				
-search	SEFRPB	SEFRN	888	root	SER/*FP			
-searches	SEFRPBZ	SEFRNZ	888	plural	S*EFRPBS, SER/*FPS, SER/-FPS			
+search	SEFRPB	SERCH	888	root	SER/*FP			
+searches	SEFRPBZ	SERCHZ	888	plural	S*EFRPBS, SER/*FPS, SER/-FPS			
 separate	SERPT	SERPT	889	root	SPEPT, SEP/RAT, SPRAEUT, SEP/PRAT, STPRERPT	It's not a bad idea to stay separate from SERPTs (serpents).		brief
-central	STR-L	STR-L	890	root	SKRAL, STRAL, SEPB/TRAL, SEPBT/RAL			brief
-career	KRAOER	CEER	891	root	KA/RAOER, KAR/AOER			
+central	STR-L	STR-L	890	root	SKRAL, STRAL, SEPB/TRAL, SEPBT/RAL		STR is center	brief
+career	KRAOER	KREER	891	root	KA/RAOER, KAR/AOER			
 anyway	TPHAE	NAE	892	root		"A renegade president decides to sign a bill into law anyway, even though everyone in Congress says ""TPHAE"" (NAE) to it."		brief
 speech	SPAOEFP	SPEECH	893	root				
 dog	TKOG	DOG	894	root				
 officer	OEUF	OIF	895	root	AUFRS, OEUFR, OF/SER, AUFS/ER, OFS/*ER	F (if) your small little town strikes OIL, you will need more police officers to handle the ensuring increase in residents--and crime.		brief
 officers	OEUFRS	OIFRS	895	plural	OFS/ERS, AUFS/ERS, OFS/*ER/-S			
-throughout	THROUT	TLOUT	896	root	THRAOUT			brief
+throughout	THROUT	THROUT	896	root	THRAOUT			brief
 oil	OEUL	OIL	897	root				
 dress	TKRES	DRES	898	root	TKRESZ			
 dressed	TKREFD	DREFD	898	conjugation	TKRES/-D			
@@ -1528,7 +1512,7 @@ fun	TPUPB	FUN	901	root
 protect	PREBGT	PREKT	902	root	PHREBGT, PREBLGT, PRO/TEBGT, PROE/TEBGT	Your bicycle got REKT (wrecked) in an accident, but fortunately you had a helmet on to protect yourself.		brief
 protecting	PRO/TEBGT/-G	PRO/TEKT/-G	902	conjugation	PROE/TEBGT/-G			
 protects	PREBGZ	PREKZ	902	conjugation	PROE/TEBGTS, PRO/TEBGT/-S, PROE/TEBGT/-S			
-resource	SRORS	VORS	903	root	ROURS, RE/SORS, RE/SORGS, RAOE/SORS			brief
+resource	ROURS	ROURS	903	root	SRORS, RE/SORS, RE/SORGS, RAOE/SORS			brief
 resources	RE/SORSZ	RE/SORSZ	903	plural	RE/SORS/-S, RE/SO*RS/-S, RAOE/SORS/-S			
 science	SKRAOEUPBS	SCIINS	904	root	SAOEU/EPBS, SKWRAOEUPBS			
 sciences	SAOEUPB/EPBS/-S	SIIN/ENS/-S	904	plural				
@@ -1539,17 +1523,17 @@ damage	TKAPBLG	DAJ	907	root	TKPAPBLG, TKAPL/APBLG, TKAPL/PHAPBLG			brief
 basis	PWAES	BAES	908	root	PWAEU/SEUS, PWAEUS/EUS, PWAEUS/SEUS	PWAES (bays) are often the basis of a city's tourism sector.		brief
 author	THOER	THOER	909	root	A*UT/O*, AU/THOR, A*UT/*ER, A*UT/O*R, A*UT/THOR	"THOER (though our) genes can be quite influential, they're not the author of our life. We still have control over our actions and choices. (THOE by itself is the outline for ""though."")"		brief
 basic	PWAEUFBG	BAAFK	910	root	PWAEUFPBG, PWAOEUFBG, PWAEUS/EUBG			brief
-encourage	EPB/KORPBLG	EN/KORJ	911	root	EPB/KORPBG, EPB/KORPBL, EPB/KURPBLG, EPB/TKORPBLG			
+encourage	EPB/KURPBLG	EN/KURJ	911	root	EPB/KORPBG, EPB/KORPBL, EPB/KORPBLG, EPB/TKORPBLG			
 encouraging	EPB/KORPBLG/-G	EN/KORJ/-G	911	conjugation	EPB/KURPBLG/-G			
 hair	HAEUR	HAAR	912	root				
 male	PHAEL	MAEL	913	root				
-operate	OERPT	OERPT	914	root	PRAEUT, OP/RAEUT	The fact that you operate an OER (oar) PT (part time--e.g. on vacations) doesn't mean you could operate a cargo ship.		brief
+operate	PRAEUT	PRAAT	914	root	OERPT, OP/RAEUT	The fact that you operate an OER (oar) PT (part time--e.g. on vacations) doesn't mean you could operate a cargo ship.		brief
 operated	PRAEUTD	PRAATD	914	conjugation				
 operates	PRAEUTS	PRAATS	914	conjugation				
 operating	PRAEUGT	PRAAGT	914	conjugation	PRAEUT/-G, PRAEULT/-G			
-reflect	TPHREBGT	NREKT	915	root	RE/TPHREBG, RE/TPHREBGT, RE/TPHREBLGT, RAOE/TPHREBGT			brief
+reflect	TPHREBGT	FLEKT	915	root	RE/TPHREBG, RE/TPHREBGT, RE/TPHREBLGT, RAOE/TPHREBGT			brief
 reflecting	RAOE/TPHREBGT/-G	REE/NREKT/-G	915	conjugation				
-reflects	TPHREBGZ	NREKZ	915	conjugation	RAOE/TPHREBGTS, RE/TPHREBGT/-S			
+reflects	TPHREBGZ	FLEKZ	915	conjugation	RAOE/TPHREBGTS, RE/TPHREBGT/-S			
 exercise	KPERZ	XERZ	916	root	*EBGS/AOEUS, *EBGS/AOEUZ, ERBGS/AOEUS, ERBGS/AOEUZ, ERBGS/SAOEU			brief
 exercised	KPER/SAOEUZ/-D	XER/SIIZ/-D	916	conjugation	ERBGS/SAOEUZ/-D			
 exercises	ERBGS/SAOEUSZ	ERX/SIISZ	916	conjugation	KPER/SAOEUZ/-Z			
@@ -1560,9 +1544,9 @@ income	TPH-BG	N-K	919	root	TKPH-BG, EUPB/KOPL	If you work in Oslo for a year, yo
 property	PROT	PROT	920	root	3R079, PROPT, PRORT, PRO*PT, PROPTD	"PROT rhymes with ""plot,"" since you need a plot of land on which to build your PROT."		brief
 properties	PROPZ	PROPZ	920	plural	PROTS, PROPTS, PRORTS, PROPTSZ, PHROPT/-S			
 previous	PRAOEF	PREEF	921	root	PRAOEFS, PRAO*EFS, PRAOEF/KWRUS, PRAO*EF/KWROUS	This pile of gray stone was a beautiful coral RAOEF (reef) at a previous point in time,  but tourists damaged the coral and destroyed the ecosystem.		brief
-dark	TKARBG	DASHG	922	root	TARBG, TKA*RBG			
+dark	TKARBG	DARK	922	root	TARBG, TKA*RBG			
 darker	TKA*ERBG	DA*ESHG	922	comparative				
-darkest	TKARBG/EFT	DASHG/EFT	922	superlative				
+darkest	TKARBG/EFT	DARK/EFT	922	superlative				
 imagine	PHAPBLG	MAJ	923	root	EUPL/APBLG/SKWREUPB, EUPL/PHAPBLG/SKWREUPB			brief
 imagining	PHAPBLG/-G	MAJ/-G	923	conjugation				
 okay	OBG	OK	924	root	OBLG, O*EBG, O/KAEU, OE/KAEU			
@@ -1570,7 +1554,7 @@ earn	ERPB	ERN	925	root
 daughter	TKAUR	DAUR	926	root	TKAU/TER, TKAUT/ER, TKAUG/TER, TKAUGT/ER, TKAUT/TER			brief
 post	POEFT	POEFT	927	root	PO*ES			
 posting	POEFG	POEFG	927	conjugation	POFT/-G, POEFT/-G			
-newspaper	TPHUP	NUP	928	root	TPHAOUP, TPHUS/PAEUP, TPHUS/PAP/*ER, TPHAOUS/PAEUP/ER, TPHAOUZ/PAEUP/ER			brief
+newspaper	TPHAOUP	NUUP	928	root	TPHUP, TPHUS/PAEUP, TPHUS/PAP/*ER, TPHAOUS/PAEUP/ER, TPHAOUZ/PAEUP/ER			brief
 define	TKE/TPAOEUPB	DE/FIIN	929	root	TKE/TPAEUPB, TKE/TPAOEUB, TKE/TPAOEUP, TKAOE/TPAOEUPB			
 defines	TKE/TPAOEUPBZ	DE/FIINZ	929	conjugation	TKAOE/TPAOEUPBS			
 conclusion	KHRAO*UGS	KL*UUSHN	930	root	KHRAOUPBGS, KAUB/KHRAOUGS, KAUPB/HRAOUGS, KAUPB/KHAOUGS, KOPB/KHRAOUGS	The private investigator's conclusion: your garbage can keeps getting tipped over and ransacked due to KHRAOUGS (collusion) between porcupines and opossums.		brief
@@ -1586,7 +1570,7 @@ mined	PHAOEUPB/-D	MIIN/-D	936	conjugation
 debate	TKPA*EUT	DPAA*T	937	root	PWE/TKAEUT, TKE/PWAEUT, TK*E/PWAEUT, TKAOE/PWAEUT			
 debates	TKE/PWAEUTS	DE/BAATS	937	plural	TKPWA*EUTSZ, TKAOE/PWAEUTS			
 memory	PHOEURPL	MOIRM	938	root	PHEPL/REU, PHEPL/PHOEUR	An elderly person has two distinct memories from her childhood: the smell of olive OIL from her family's kitchen and the voice of her old school-M(a)RM (schoolmarm).		brief
-green	TKPWRAEPB	GRAEN	939	root	KWRAOEPB, TKPWRAOEPB, STKPWRAOEPB	Without insurance, a trip to the ACCIDENT AND EMERGENCY ROOM (AE) will cost you a lot of green-backs (greenbacks).		
+green	TKPWRAOEPB	GREEN	939	root	TKPWRAEPB, KWRAOEPB, STKPWRAOEPB	Without insurance, a trip to the ACCIDENT AND EMERGENCY ROOM (AE) will cost you a lot of green-backs (greenbacks).		
 greening	TKPWRAOEPBG	GREENG	939	conjugation				
 greens	TKPWRAOEPBS	GREENS	939	conjugation				
 greener	TKPWRAOERPB	GREERN	939	comparative	TKPWRAOPB/*ER, TKPWRAOEPB/*ER			
@@ -1598,8 +1582,8 @@ maintain	PHAEUP/TAEUB	MAAP/TAAB	942	root	PHAEUPB/TAEUB, PHEUPB/TAEUPB, PHAEUPB/T
 maintained	PHAEUPB/TAEUPBD	MAAN/TAAND	942	conjugation	PHAEUPB/TAEUPB/-D			
 maintaining	PHAEUPB/TAEUPBG	MAAN/TAANG	942	conjugation	PHAEUPB/TAEUPB/-G			
 maintains	PHAEUPB/TAEUPBS	MAAN/TAANS	942	conjugation	PHAEUPB/TAEUPB/-S			
-credit	KRET	CET	943	root	KRETD, KRAETD, KREUTD, SKRETD, KRED/EUT	Some people are RET. (Ret./retired) from college even though they don't have enough credits to graduate. We need to find ways to help them complete their degrees.		brief
-credits	KRETSD	CETSD	943	plural	KRED/EUTS			
+credit	KRET	KRET	943	root	KRETD, KRAETD, KREUTD, SKRETD, KRED/EUT	Some people are RET. (Ret./retired) from college even though they don't have enough credits to graduate. We need to find ways to help them complete their degrees.		brief
+credits	KRETSD	KRETSD	943	plural	KRED/EUTS			
 ring	REUPBG	RING	944	root				
 ringing	REUPBG/-G	RING/-G	944	conjugation				
 rung	RUPBG	RUNG	944	conjugation				
@@ -1613,20 +1597,20 @@ extended	EBGS/TEPBD/-D	EX/TEND/-D	949	conjugation	EBGS/TEPBTS/-D
 extending	EBGS/TEPBD/-G	EX/TEND/-G	949	conjugation				
 possibility	POBT	POBT	950	root	POBLT, POBLTD, POS/-BLT, POSZ/-BLT, POS/SEUBLT	"Dunk the word ""possible"" (POB) in a nice warm cup of tea, let it soak for a few minutes, and you'll have ""possibil-tea (possibility)"" (POBT)!"		brief
 possibilities	POBLTS	POBLTS	950	plural	POBLT/-S, POS/-BLTS, POSZ/-BLTS			
-direction	TKREBGS	DREX	951	root	TKREUBG, TKR*EBGS, TKEU/R*EBGS			
+direction	TKREBGS	DRESHUN	951	root	TKREUBG, TKR*EBGS, TKEU/R*EBGS			
 directions	TKREBGS/-S	DREX/-S	951	plural				
 facility	TPAS/EULT	FAS/ILT	952	root	TPA/SEULT, TPA/SEUL/TEU, TPAS/SEUL/TEU			
-variety	SRAOEURT	VIIRT	953	root	SRAEURT, SRA/RAOEUT, SRAR/AOEUT, SRA/SRAOEUT, SRAO/RAOEUT			brief
+variety	SRAEURT	VAIRT	953	root	SRAOEURT, SRA/RAOEUT, SRAR/AOEUT, SRA/SRAOEUT, SRAO/RAOEUT			brief
 daily	TKAEUL	DAAL	954	root	TKAEU/HREU, TKAEUL/HREU, TKAEUL/KWREU			brief
 clothes	KHRO*ES	KLO*ES	955	root	KHRO*ETS	If you don't KHROES (close) your door completely, your pet porcupine will get into your clothes and tear them apart.		
-screen	SKRAOEPB	SCEEN	956	root				
+screen	SKRAOEPB	SKREEN	956	root				
 track	TRABG	TRAK	957	root				
 tracking	TRABG/-G	TRAK/-G	957	conjugation				
 tracks	TRABGZ	TRAKZ	957	conjugation	TRABG/-S			
 dance	TKAPBS	DANS	958	root				
 danced	TKAPBS/-D	DANS/-D	958	conjugation				
 dancing	TKAPBS/-G	DANS/-G	958	conjugation				
-completely	KPHRELT	XLELT	959	root	KPHRAOELT, KPWHRAOELT, TKPHRAOELT, KPHRAOET/HREU			brief
+completely	KPHRELT	KPLELT	959	root	KPHRAOELT, KPWHRAOELT, TKPHRAOELT, KPHRAOET/HREU			brief
 female	TPAEL	FAEL	960	root	TPE/PHAEL, TPE/PHAEUL, TKPE/PHAEUL, TPAE/PHAOEL, TPAOE/PHAEL			brief
 females	TPE/PHAELS	FE/MAELS	960	conjugation	TPE/PHAEULS, TPAOE/PHAEULS			
 responsibility	SPOPBT	SPONT	961	root	SPOBLT, SPOPBGT, SPOPBLT, SPOPBLGT, RE/SPOPBLT			brief
@@ -1634,7 +1618,7 @@ original	ORPBL	ORNL	962	root	ORPBLG, OERPBLG, ORPBLG/A*L, ORPBLG/TPHAL, O/REUPBL
 sister	ST-R	ST-R	963	root	S*EUS/ER, SEUS/TER			brief
 rock	ROBG	ROK	964	root				
 dream	TKRAOEPL	DREEM	965	root				
-nor	TPH-R	N-R	966	root	TPHOR			brief
+nor	TPHOR	NOR	966	root	TPH-R			brief
 university	AOUFRT	UUFRT	967	root	KWRAOUFRT, AOUPB/SRERT, AOUPB/SRERS/TEU, KWRAOUPB/SRERS/TEU	If you go to a university in the northeast, like the University of Maine, AOU (you) can spend the winter building snow FRT-s (forts) and having snowball fights with your friends.		brief
 universities	AOUPB/SRERS/TEUS	UUN/VERS/TIS	967	plural				
 easily	AOELS	EELS	968	root	AO*ELS, AOES/HREU, AOET/HREU, AOEZ/HREU, AOEZ/SEU/HREU	AOELS (eels) can easily be added to any part of Japanese cooking.		brief
@@ -1649,10 +1633,10 @@ fixed	TPEUFD	FIFD	972	conjugation	TP*EUGD, TPEUBGD, TPEUBGS/-D
 fixes	TPEURBGS/-S	FIRX/-S	972	conjugation				
 fixing	TPEUBGS/-G	FIX/-G	972	conjugation				
 ahead	A/HED	A/HED	973	root				
-cross	KROS	COS	974	root	KROGS, KROSZ			
-crossed	KROFD	COFD	974	conjugation	KROS/-D			
-crosses	KROFS	COFS	974	conjugation	KROS/-S			
-crossing	KROFG	COFG	974	conjugation	KROS/-G			
+cross	KROS	KROS	974	root	KROGS, KROSZ			
+crossed	KROFD	KROFD	974	conjugation	KROS/-D			
+crosses	KROFS	KROFS	974	conjugation	KROS/-S			
+crossing	KROFG	KROFG	974	conjugation	KROS/-G			
 yeah	KWR*E	Y*E	975	root		"Imagine that a teacher puts an asterisk on every ""Ye"" in an old text and puts a message on the bottom for her kids: ""* this means 'yeah.'"""		brief
 weight	WAET	WAET	976	root	WAELT			
 legal	HRAOEL	LEEL	977	root	HRAOE/TKPWAL, HRAOEG/TKPWAL	Some people distrust the legal profession because they think lawyers are as sneaky and malicious as AOEL-s (eels).		brief
@@ -1680,9 +1664,9 @@ communications	KPHAOUPB/KAEUGS/-S	XHUUN/KAASHN/-S	989	plural
 agent	AGT	AGT	990	root	AEUGT, AEUGTD, AEULGT, AEUPBLG/EPBT, AEUPBLG/SKWREPBT	A sales agent for a precious metals company cold-calls you and pressures you to convert all your investments into AG (Ag--silver).		brief
 agents	AEUGTS	AAGTS	990	plural	AEUGTSZ, AEUGTS/-S			
 traditional	TRAL	TRAL	991	root	TRA*L, TRAD/EUGS/AL, TRAD/EUGS/A*L, TRA/TKEUGS/A*L	Oregon TRAL (trail) is THE traditional educational computer game. It's still a cultural legend to this day.		brief
-replace	RE/PHRAEUS	RE/MRAAS	992	root	RE/PHRA*EUS, RAOE/PHRAEUS			
-replaces	RE/PHRAEUS/-S	RE/MRAAS/-S	992	conjugation	RAOE/PRAEUS/-S, RE/PHRAEUT/PHRA*EUS/-S			
-replacing	RE/PHRAEUS/-G	RE/MRAAS/-G	992	conjugation	RAOE/PHRAEUS/-G			
+replace	RE/PHRAEUS	RE/PLAAS	992	root	RE/PHRA*EUS, RAOE/PHRAEUS			
+replaces	RE/PHRAEUS/-S	RE/PLAAS/-S	992	conjugation	RAOE/PRAEUS/-S, RE/PHRAEUT/PHRA*EUS/-S			
+replacing	RE/PHRAEUS/-G	RE/PLAAS/-G	992	conjugation	RAOE/PHRAEUS/-G			
 judge	SKWRUPBLG	JUJ	993	root	SKWRUPBL			
 herself	H*ERS	H*ERS	994	root	HER/SEFL			brief
 suddenly	SULD	SULD	995	root	SUD/HREU			brief
@@ -1731,7 +1715,7 @@ count	KOUPBT	KOUNT	1020	root	KAOUPBT, KOUPBLT
 counting	KOUPBGT	KOUNGT	1020	conjugation	KOUPBT/-G			
 scene	SAEPB	SAEN	1021	root	SAO*EPB, SKAOEPB			
 scenes	SAOEPBS	SEENS	1021	plural	SKAOEPBS, SKEPB/-S, SAOEPB/-S, SKWAOEPBS			
-writer	WREUR	WRIR	1022	root	WRAOEUR, WREU/ER, WRAOEURT, WRAOEURBT, WRAOEUT/ER			brief
+writer	WRAOEUR	WRIIR	1022	root	WREUR, WREU/ER, WRAOEURT, WRAOEURBT, WRAOEUT/ER			brief
 content	KAUPBT	KAUNT	1023	root	KAUPB/TEPT, KOPB/TEPBT, KAUPB/TEPBT, KAUPBT/EPBT	Pity the poor philosophy student who has to get through 100 pages written by Immanuel KAUPBT (Kant) for an exam tomorrow.		brief
 contents	KAUPB/TEPBTS	KAUN/TENTS	1023	conjugation				
 prevent	PREFPBT	PREFNT	1024	root	PR*EFPBT, PRAOEPBT, PRAOEPBLT, PRE/SREPBT, PRAOE/SREPBT			brief
@@ -1745,12 +1729,11 @@ inviting	EUPB/SRAOEUGT	IN/VIIGT	1026	conjugation	EUPB/SRAOEUT/-G
 mix	PHEUBGS	MIX	1027	root	PHAOEUBGS			
 mixes	PHEUBGS/-S	MIX/-S	1027	plural				
 element	HREPLT	LEMT	1028	root	EL/*PLT, EL/EPLT, EL/*EPLT, ELT/*PLT, EL/HREPLT	A LEM-on (lemon) is a great element to add to any cup of T (tea).		brief
-elements	HR-PLTS	L-MTS	1028	plural	HREPLTS, EL/-PLTS			
 effective	TPEF	FEF	1029	root	EFBG/T*EUF, EFBGT/TEUF, EFBGT/T*EUF, TPEBGT/TEUF, E/TPEBG/T*EUF	"If you say TPEF (FEF) when you're trying to pronounce ""theft,"" you may need to find an effective speech therapist for your lisp."		brief
-correct	KREBGT	CEKT	1030	root	KRERBG, KREBLGT, KOR/REBGT			brief
-corrected	KREBGD	CEKD	1030	conjugation	KREBGTD, KREGT/-D			
-correcting	KREBGT/-G	CEKT/-G	1030	conjugation				
-corrects	KREBGZ	CEKZ	1030	conjugation	KREBGTS			
+correct	KREBGT	KREKT	1030	root	KRERBG, KREBLGT, KOR/REBGT			brief
+corrected	KREBGD	KREKD	1030	conjugation	KREBGTD, KREGT/-D			
+correcting	KREBGT/-G	KREKT/-G	1030	conjugation				
+corrects	KREBGZ	KREKZ	1030	conjugation	KREBGTS			
 medical	PHED/K-L	MED/K-L	1031	root	PHED/KAL, PHED/TK-L, PHETD/K-L			
 admit	AD/PHEUT	AD/MIT	1032	root	ADZ/PHEUT			
 admitting	AD/PHEUGT	AD/MIGT	1032	conjugation	AD/PHEUT/-G			
@@ -1764,7 +1747,7 @@ copy	KOEUP	KOIP	1035	root	KO*EP, KOP/PEU, KOP/KWREU	The copy machine at your off
 copied	KO*EPD	KO*EPD	1035	conjugation	KOP/EUD			
 copies	KO*EPS	KO*EPS	1035	conjugation	KOP/EUS, KOP/KWREUS			
 copying	KOP/EUG	KOP/IG	1035	conjugation	KOP/KWREU/-G			
-committee	KPHAOE	XHEE	1036	root	KPHAOET, KPHEUT/AOE, KPHEUT/TAE, KPHEUT/TAOE, KPHEUT/WREU	"If you have a narcissstic person on a committee, they may decide that the committee is ""all about MAOE"" (me)."		brief
+committee	KPHAOE	KMEE	1036	root	KPHAOET, KPHEUT/AOE, KPHEUT/TAE, KPHEUT/TAOE, KPHEUT/WREU	"If you have a narcissstic person on a committee, they may decide that the committee is ""all about MAOE"" (me)."		brief
 aware	A/WAEUR	A/WAAR	1037	root	A/A/WAEUR			
 advice	SREUS	VIS	1038	root	AD/SRAOEUS	"VIS stands for ""Vaccine Information Statement."" It gives you advice about whether taking the vaccine is a good idea."		brief
 handle	HAPBL	HANL	1039	root	HA*PBGD, HA*PBLD, HAPD/*L, HAPBD/*L, HAPBD/-L			brief
@@ -1778,14 +1761,14 @@ stresses	STREFS	STREFS	1042	conjugation	STRES/-S
 stressing	STREFG	STREFG	1042	conjugation	STRES/-G			
 radio	ROEUD	ROID	1043	root	RO*EUD, RAEUD/KWRO, RAEUD/KWROE, RAEUD/SKWRO, RAEUD/KWROEU	You hear on sports radio that your team's star quarterback has been suspended for the year because a ROEUD ('roid) was found in his locker.		brief
 radios	RAEUD/KWROES	RAAD/YOES	1043	plural	RAEUD/KWROE/-S			
-administration	STKRAEUGS	SDRAASHN	1044	root	AD/PH-GS, AD/PH*RGS, AD/STRAEGS, AD/STREUGS, STKPRAEUGS	"Your school administration announces that all students will receive a free copy of ""Beats by Dr. DKRAEU (Dre)."" But what you actually get S (is) a jar of ""Beets by Dr. DKRAEU (Dre)."" Not quite as exciting. Most students just GS (SHUN) them, except for the vegans."		brief
+administration	STKRAEUGS	SDRAASHN	1044	root	AD/PH-GS, AD/PH*RGS, AD/STRAEGS, AD/STREUGS, STKPRAEUGS	"Your school administration announces that all students will receive a free copy of ""Beats by Dr. DKRAEU (Dre)."" But what you actually get S (is) a jar of ""Beets by Dr. DRAA (Dre)."" Not quite as exciting. Most students just GS (SHUN) them, except for the vegans."	STRAAGS is strayings	brief
 administrations	AD/PHEUPB/STRAEUGS/-S	AD/MIN/STRAASHN/-S	1044	plural				
-complex	KPHREBGS	XLEX	1045	root	KPWHREBGS, KOPL/PHREBGS			brief
-complexes	KPHREBGS/-S	XLEX/-S	1045	conjugation				
+complex	KPHREBGS	KPLEX	1045	root	KPWHREBGS, KOPL/PHREBGS			brief
+complexes	KPHREBGS/-S	KPLEX/-S	1045	conjugation				
 text	TEGT	TEGT	1046	root	T*EBGS			brief
 context	KEGT	KEGT	1047	root	K*EGT, KAUPB/TEGT, KOPB/T*EBGS	A KEG (keg) of T (tea) makes sense in context--when you consider it's at the middle of an all-night college study party.		brief
 ride	RAOEUD	RIID	1048	root				
-ridden	REUD/-PB	RID/-N	1048	conjugation	REUD/EPB, REUD/*EPB, REUD/*EUPB, REUD/TKEPB			
+ridden	REUD/-PB	RID/-N	1048	conjugation	REUD/EPB, REUD/*EPB, REUD/*EUPB, REUD/TKEPB		RIND is Rinned	
 rides	RAOEUDZ	RIIDZ	1048	conjugation	RAOEUD/-Z			
 riding	RAOEUD/-G	RIID/-G	1048	conjugation				
 rode	ROED	ROED	1048	conjugation	RO*ED			
